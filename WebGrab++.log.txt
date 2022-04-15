@@ -1,0 +1,22 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version  V3.2.0.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 15/04/2022 14:03:22
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: C:\Users\leand\AppData\Local\WebGrab+Plus\WebGrab++.config.xml
+[  Info  ] Checking License ..
+[  Info  ] For License request/update data, see WGLicense.log.txt
+[Warning ] 
+[  Info  ] Hardware mismatch detected .. see WGLicense.log.txt for details
+[Warning ] Program will close .. 
