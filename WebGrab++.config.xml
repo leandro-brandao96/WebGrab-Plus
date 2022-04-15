@@ -1,18 +1,20 @@
 <?xml version="1.0"?>
 <settings>
+   
   <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml 
   and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
+   
   <filename>guide.xml</filename>
-  <mode>
-  </mode>
+  <mode></mode>
   <postprocess grab="y" run="n">rex</postprocess>
   <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
   <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
-  <license wg-username="leandro-brandao96" registered-email="leandro-brandao96@hotmail.com" password="af179eca">To force a license update; replace this text with the letter f</license>
+  <!--<license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password" />-->
   <logging>on</logging>
   <retry time-out="5">4</retry>
   <timespan>0</timespan>
   <update>f</update>
+ 
   <!--
             Replace the next dummy channel entry with the channels you want.
 			You can look into the installed siteini.pack folder on your computer
@@ -20,107 +22,9 @@
             For the latest version,
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
-  <channels>
-    <channel update="i" site="nos.pt.E" site_id="5" xmltv_id="RTP 1">RTP 1</channel>
+  
+  <channel update="i" site="nos.pt.E" site_id="5" xmltv_id="RTP 1">RTP 1</channel>
     <channel update="i" site="nos.pt.E" site_id="3" xmltv_id="RTP 2">RTP 2</channel>
     <channel update="i" site="nos.pt.E" site_id="7" xmltv_id="SIC">SIC</channel>
-    <channel update="i" site="nos.pt.E" site_id="8" xmltv_id="TVI">TVI</channel>
-    <channel update="i" site="nos.pt.E" site_id="9" xmltv_id="SIC Notícias">SIC Notícias</channel>
-    <channel update="i" site="nos.pt.E" site_id="64" xmltv_id="RTP 3">RTP 3</channel>
-    <channel update="i" site="nos.pt.E" site_id="160" xmltv_id="CNN Portugal">CNN Portugal</channel>
-    <channel update="i" site="nos.pt.E" site_id="381" xmltv_id="CMTV">CMTV</channel>
-    <channel update="i" site="nos.pt.E" site_id="71" xmltv_id="SIC Mulher">SIC Mulher</channel>
-    <channel update="i" site="nos.pt.E" site_id="230" xmltv_id="Globo">Globo</channel>
-    <channel update="i" site="nos.pt.E" site_id="565" xmltv_id="Canal 11">Canal 11</channel>
-    <channel update="i" site="meo.pt" site_id="TVIFIC" xmltv_id="TVI Ficção">TVI Ficção</channel>
-    <channel update="i" site="meo.pt" site_id="ABOLA" xmltv_id="A BOLA TV">A BOLA TV</channel>
-    <channel update="i" site="nos.pt.E" site_id="417" xmltv_id="SPORT TV+ HD">SPORT TV+ HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="423" xmltv_id="Porto Canal">Porto Canal</channel>
-    <channel update="i" site="nos.pt.E" site_id="137" xmltv_id="SPORT TV1 HD">SPORT TV1 HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="187" xmltv_id="SPORT TV2 HD">SPORT TV2 HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="188" xmltv_id="SPORT TV3 HD">SPORT TV3 HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="247" xmltv_id="SPORT TV4 HD">SPORT TV4 HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="180" xmltv_id="SPORT TV5 HD">SPORT TV5 HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="449" xmltv_id="Sport TV NBA">Sport TV NBA</channel>
-    <channel update="i" site="nos.pt.E" site_id="236" xmltv_id="Fight Network HD">Fight Network HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="245" xmltv_id="BTV1 HD">BTV1 HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="518" xmltv_id="ELEVEN 1">ELEVEN 1</channel>
-    <channel update="i" site="nos.pt.E" site_id="519" xmltv_id="ELEVEN 2">ELEVEN 2</channel>
-    <channel update="i" site="nos.pt.E" site_id="513" xmltv_id="ELEVEN 3">ELEVEN 3</channel>
-    <channel update="i" site="nos.pt.E" site_id="514" xmltv_id="ELEVEN 4">ELEVEN 4</channel>
-    <channel update="i" site="nos.pt.E" site_id="515" xmltv_id="ELEVEN 5">ELEVEN 5</channel>
-    <channel update="i" site="nos.pt.E" site_id="516" xmltv_id="ELEVEN 6">ELEVEN 6</channel>
-    <channel update="i" site="nos.pt.E" site_id="352" xmltv_id="Sporting TV HD">Sporting TV HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="145" xmltv_id="Eurosport 1 HD">Eurosport 1 HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="563" xmltv_id="Eurosport 2 HD">Eurosport 2 HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="66" xmltv_id="Disney Channel">Disney Channel</channel>
-    <channel update="i" site="nos.pt.E" site_id="252" xmltv_id="Cartoon Network">Cartoon Network</channel>
-    <channel update="i" site="nos.pt.E" site_id="176" xmltv_id="Biggs">Biggs</channel>
-    <channel update="i" site="nos.pt.E" site_id="553" xmltv_id="SIC K HD">SIC K HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="94" xmltv_id="Nickelodeon">Nickelodeon</channel>
-    <channel update="i" site="nos.pt.E" site_id="444" xmltv_id="Nick Jr.">Nick Jr.</channel>
-    <channel update="i" site="nos.pt.E" site_id="226" xmltv_id="Disney Junior">Disney Junior</channel>
-    <channel update="i" site="nos.pt.E" site_id="31" xmltv_id="Canal Panda">Canal Panda</channel>
-    <channel update="i" site="meo.pt" site_id="JJAM" xmltv_id="JIMJAM">JIMJAM</channel>
-    <channel update="i" site="nos.pt.E" site_id="448" xmltv_id="Baby TV">Baby TV</channel>
-    <channel update="i" site="nos.pt.E" site_id="16" xmltv_id="TVCine TOP">TVCine TOP</channel>
-    <channel update="i" site="nos.pt.E" site_id="18" xmltv_id="TVCine EDITION">TVCine EDITION</channel>
-    <channel update="i" site="nos.pt.E" site_id="76" xmltv_id="TVCine EMOTION">TVCine EMOTION</channel>
-    <channel update="i" site="nos.pt.E" site_id="84" xmltv_id="TVCine ACTION">TVCine ACTION</channel>
-    <channel update="i" site="nos.pt.E" site_id="546" xmltv_id="NOS Studios">NOS Studios</channel>
-    <channel update="i" site="meo.pt" site_id="CINEHD" xmltv_id="CINEMUNDO HD">CINEMUNDO HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="13" xmltv_id="Canal Hollywood">Canal Hollywood</channel>
-    <channel update="i" site="nos.pt.E" site_id="177" xmltv_id="FOX Movies">FOX Movies</channel>
-    <channel update="i" site="nos.pt.E" site_id="436" xmltv_id="AMC">AMC</channel>
-    <channel update="i" site="nos.pt.E" site_id="164" xmltv_id="AXN Movies">AXN Movies</channel>
-    <channel update="i" site="nos.pt.E" site_id="85" xmltv_id="FOX">FOX</channel>
-    <channel update="i" site="nos.pt.E" site_id="86" xmltv_id="FOX Life">FOX Life</channel>
-    <channel update="i" site="nos.pt.E" site_id="114" xmltv_id="FOX Crime">FOX Crime</channel>
-    <channel update="i" site="nos.pt.E" site_id="116" xmltv_id="FOX Comedy">FOX Comedy</channel>
-    <channel update="i" site="nos.pt.E" site_id="77" xmltv_id="AXN">AXN</channel>
-    <channel update="i" site="nos.pt.E" site_id="163" xmltv_id="AXN White">AXN White</channel>
-    <channel update="i" site="nos.pt.E" site_id="542" xmltv_id="SYFY">SYFY</channel>
-    <channel update="i" site="nos.pt.E" site_id="22" xmltv_id="Discovery Channel">Discovery Channel</channel>
-    <channel update="i" site="nos.pt.E" site_id="19" xmltv_id="História">História</channel>
-    <channel update="i" site="nos.pt.E" site_id="20" xmltv_id="Odisseia">Odisseia</channel>
-    <channel update="i" site="nos.pt.E" site_id="59" xmltv_id="National Geographic">National Geographic</channel>
-    <channel update="i" site="nos.pt.E" site_id="82" xmltv_id="National Geographic WILD">National Geographic WILD</channel>
-    <channel update="i" site="nos.pt.E" site_id="530" xmltv_id="ID Investigation Discovery">ID Investigation Discovery</channel>
-    <channel update="i" site="nos.pt.E" site_id="382" xmltv_id="TVI Reality">TVI Reality</channel>
-    <channel update="i" site="nos.pt.E" site_id="80" xmltv_id="RTP Memória">RTP Memória</channel>
-    <channel update="i" site="nos.pt.E" site_id="572" xmltv_id="Casa e Cozinha HD">Casa e Cozinha HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="100" xmltv_id="Travel Channel">Travel Channel</channel>
-    <channel update="i" site="nos.pt.E" site_id="235" xmltv_id="Canal Q">Canal Q</channel>
-    <channel update="i" site="nos.pt.E" site_id="422" xmltv_id="SIC Radical HD">SIC Radical HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="36" xmltv_id="MTV Portugal">MTV Portugal</channel>
-    <channel update="i" site="nos.pt.E" site_id="509" xmltv_id="Blaze HD">Blaze HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="78" xmltv_id="Fuel TV">Fuel TV</channel>
-    <channel update="i" site="nos.pt.E" site_id="411" xmltv_id="Crime + Investigation">Crime + Investigation</channel>
-    <channel update="i" site="meo.pt" site_id="CBSR" xmltv_id="CBS REALITY">CBS REALITY</channel>
-    <channel update="i" site="nos.pt.E" site_id="421" xmltv_id="SIC Caras HD">SIC Caras HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="130" xmltv_id="E! Entertainment">E! Entertainment</channel>
-    <channel update="i" site="nos.pt.E" site_id="243" xmltv_id="24Kitchen HD">24Kitchen HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="47" xmltv_id="FTV HD">FTV HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="65" xmltv_id="Trace Urban HD">Trace Urban HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="368" xmltv_id="MCM Pop">MCM Pop</channel>
-    <channel update="i" site="nos.pt.E" site_id="543" xmltv_id="Trace Toca">Trace Toca</channel>
-    <channel update="i" site="nos.pt.E" site_id="106" xmltv_id="RTP Açores">RTP Açores</channel>
-    <channel update="i" site="nos.pt.E" site_id="107" xmltv_id="RTP Madeira">RTP Madeira</channel>
-    <channel update="i" site="nos.pt.E" site_id="49" xmltv_id="ARTV">ARTV</channel>
-    <channel update="i" site="nos.pt.E" site_id="181" xmltv_id="Toros TV HD">Toros TV HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="129" xmltv_id="Caça e Pesca">Caça e Pesca</channel>
-    <channel update="i" site="nos.pt.E" site_id="426" xmltv_id="Kuriakos TV">Kuriakos TV</channel>
-    <channel update="i" site="nos.pt.E" site_id="142" xmltv_id="Canção Nova">Canção Nova</channel>
-    <channel update="i" site="nos.pt.E" site_id="371" xmltv_id="DOGTV">DOGTV</channel>
-    <channel update="i" site="nos.pt.E" site_id="112" xmltv_id="PFC">PFC</channel>
-    <channel update="i" site="nos.pt.E" site_id="538" xmltv_id="ZAP Viva HD">ZAP Viva HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="350" xmltv_id="Record TV HD">Record TV HD</channel>
-    <channel update="i" site="nos.pt.E" site_id="27" xmltv_id="RTP África">RTP África</channel>
-    <channel update="i" site="nos.pt.E" site_id="26" xmltv_id="CNN">CNN</channel>
-    <channel update="i" site="nos.pt.E" site_id="52" xmltv_id="CNBC">CNBC</channel>
-    <channel update="i" site="nos.pt.E" site_id="25" xmltv_id="Euronews">Euronews</channel>
-    <channel update="i" site="meo.pt" site_id="RTP1" xmltv_id="RTP Internacional">RTP Internacional</channel>
-    <channel update="i" site="meo.pt" site_id="SIC" xmltv_id="SIC Internacional">SIC Internacional</channel>
-    <channel update="i" site="meo.pt" site_id="TVI" xmltv_id="TVI Internacional">TVI Internacional</channel>
-  </channels>
+ 
 </settings>
