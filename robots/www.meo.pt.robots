@@ -1,0 +1,13 @@
+﻿User-agent: *
+
+Disallow: /_layouts/
+Disallow: /_vti_bin/
+Disallow: /_catalogs/
+
+User-agent: Googlebot
+Allow: /_layouts/15/
+Allow: /_catalogs/
+Allow: /ScriptResource.axd
+
+Sitemap: http://www.meo.pt:80/sitemap.xml
+
