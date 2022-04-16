@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 15/04/2022 22:04:18
+[        ] Job started at 16/04/2022 10:43:02
 [  Debug ] 
 [  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
 [  Debug ] Environment: 4.0.30319.42000
@@ -22,7 +22,109 @@
 [  Info  ] encrypted in 'legacy (V2)' mode
 [  Debug ] 
 [  Info  ] found: C:\Users\leand\AppData\Local\WebGrab+Plus\siteini.pack\Portugal\meo.pt.ini -- Revision 06
-[  Info  ] input file C:\Users\leand\AppData\Local\WebGrab+Plus\guide.xml not found   ... created a new one ... 
+[  Debug ] xmltv input file - C:\Users\leand\AppData\Local\WebGrab+Plus\guide.xml - found
+[  Debug ] 0 superfluous shows removed
+[  Info  ] Found existing channel (xmltv_id=RTP 1) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTP 2) in the config file
+[  Info  ] Found existing channel (xmltv_id=SIC) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVI) in the config file
+[  Info  ] Found existing channel (xmltv_id=SIC Notícias) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTP 3) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNN Portugal) in the config file
+[  Info  ] Found existing channel (xmltv_id=CMTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=SIC Mulher) in the config file
+[  Info  ] Found existing channel (xmltv_id=Globo) in the config file
+[  Info  ] Found existing channel (xmltv_id=Canal 11) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVI Ficção) in the config file
+[  Info  ] Found existing channel (xmltv_id=A BOLA TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=SPORT TV+ HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Porto Canal) in the config file
+[  Info  ] Found existing channel (xmltv_id=SPORT TV1 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=SPORT TV2 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=SPORT TV3 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=SPORT TV4 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=SPORT TV5 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sport TV NBA) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fight Network HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=BTV1 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=ELEVEN 1) in the config file
+[  Info  ] Found existing channel (xmltv_id=ELEVEN 2) in the config file
+[  Info  ] Found existing channel (xmltv_id=ELEVEN 3) in the config file
+[  Info  ] Found existing channel (xmltv_id=ELEVEN 4) in the config file
+[  Info  ] Found existing channel (xmltv_id=ELEVEN 5) in the config file
+[  Info  ] Found existing channel (xmltv_id=ELEVEN 6) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sporting TV HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 1 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 2 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disney Channel) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cartoon Network) in the config file
+[  Info  ] Found existing channel (xmltv_id=Biggs) in the config file
+[  Info  ] Found existing channel (xmltv_id=SIC K HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nickelodeon) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nick Jr.) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disney Junior) in the config file
+[  Info  ] Found existing channel (xmltv_id=Canal Panda) in the config file
+[  Info  ] Found existing channel (xmltv_id=JIMJAM) in the config file
+[  Info  ] Found existing channel (xmltv_id=Baby TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVCine TOP) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVCine EDITION) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVCine EMOTION) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVCine ACTION) in the config file
+[  Info  ] Found existing channel (xmltv_id=NOS Studios) in the config file
+[  Info  ] Found existing channel (xmltv_id=CINEMUNDO HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Canal Hollywood) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Movies) in the config file
+[  Info  ] Found existing channel (xmltv_id=AMC) in the config file
+[  Info  ] Found existing channel (xmltv_id=AXN Movies) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Life) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Crime) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Comedy) in the config file
+[  Info  ] Found existing channel (xmltv_id=AXN) in the config file
+[  Info  ] Found existing channel (xmltv_id=AXN White) in the config file
+[  Info  ] Found existing channel (xmltv_id=SYFY) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discovery Channel) in the config file
+[  Info  ] Found existing channel (xmltv_id=História) in the config file
+[  Info  ] Found existing channel (xmltv_id=Odisseia) in the config file
+[  Info  ] Found existing channel (xmltv_id=National Geographic) in the config file
+[  Info  ] Found existing channel (xmltv_id=National Geographic WILD) in the config file
+[  Info  ] Found existing channel (xmltv_id=ID Investigation Discovery) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVI Reality) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTP Memória) in the config file
+[  Info  ] Found existing channel (xmltv_id=Casa e Cozinha HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Travel Channel) in the config file
+[  Info  ] Found existing channel (xmltv_id=Canal Q) in the config file
+[  Info  ] Found existing channel (xmltv_id=SIC Radical HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Portugal) in the config file
+[  Info  ] Found existing channel (xmltv_id=Blaze HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fuel TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Crime + Investigation) in the config file
+[  Info  ] Found existing channel (xmltv_id=CBS REALITY) in the config file
+[  Info  ] Found existing channel (xmltv_id=SIC Caras HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=E! Entertainment) in the config file
+[  Info  ] Found existing channel (xmltv_id=24Kitchen HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=FTV HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Trace Urban HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=MCM Pop) in the config file
+[  Info  ] Found existing channel (xmltv_id=Trace Toca) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTP Açores) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTP Madeira) in the config file
+[  Info  ] Found existing channel (xmltv_id=ARTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Toros TV HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Caça e Pesca) in the config file
+[  Info  ] Found existing channel (xmltv_id=Kuriakos TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Canção Nova) in the config file
+[  Info  ] Found existing channel (xmltv_id=DOGTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=PFC) in the config file
+[  Info  ] Found existing channel (xmltv_id=ZAP Viva HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Record TV HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTP África) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNN) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNBC) in the config file
+[  Info  ] Found existing channel (xmltv_id=Euronews) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTP Internacional) in the config file
+[  Info  ] Found existing channel (xmltv_id=SIC Internacional) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVI Internacional) in the config file
 [  Info  ] 
 [  Info  ] 
 [  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
@@ -369,9 +471,9 @@
 [Warning ] 
 [  Info  ] 
 [  Debug ] 
-[  Debug ] 2970 shows in 101 channels
+[  Debug ] 2980 shows in 101 channels
 [  Debug ] 0 updated shows
-[  Debug ] 2970 new shows added
+[  Debug ] 2980 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 15/04/2022 22:13:15 done in 8m 57s
+[        ] Job finished at 16/04/2022 10:51:27 done in 8m 24s
