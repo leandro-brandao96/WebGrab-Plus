@@ -1,5 +1,5 @@
 ﻿[        ] WebGrab++ license request and update log
-[        ] 2022/04/16 10:43
+[        ] 2022/04/20 08:24
 [        ] 
 [  Info  ] No License update required
 [  Info  ] Next update, first run after : 2022/04/22 22:04
