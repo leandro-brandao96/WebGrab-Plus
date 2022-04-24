@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 24/04/2022 18:00:03
+[        ] Job started at 24/04/2022 21:00:05
 [  Debug ] 
 [  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
 [  Debug ] Environment: 4.0.30319.42000
@@ -23,7 +23,7 @@
 [  Debug ] 
 [  Info  ] found: C:\Users\leand\AppData\Local\WebGrab+Plus\siteini.pack\Portugal\meo.pt.ini -- Revision 06
 [  Debug ] xmltv input file - C:\Users\leand\AppData\Local\WebGrab+Plus\guide.xml - found
-[  Debug ] 2627 superfluous shows removed
+[  Debug ] 2359 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=RTP 1) in the config file
 [  Info  ] Found existing channel (xmltv_id=RTP 2) in the config file
 [  Info  ] Found existing channel (xmltv_id=SIC) in the config file
@@ -140,7 +140,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/101 ) NOS.PT.E -- chan. (xmltv_id=RTP 2) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   3/101 ) NOS.PT.E -- chan. (xmltv_id=SIC) -- mode Force
@@ -188,7 +187,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  15/101 ) NOS.PT.E -- chan. (xmltv_id=Porto Canal) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  16/101 ) NOS.PT.E -- chan. (xmltv_id=SPORT TV1 HD) -- mode Force
@@ -234,15 +232,12 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  30/101 ) NOS.PT.E -- chan. (xmltv_id=Sporting TV HD) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  31/101 ) NOS.PT.E -- chan. (xmltv_id=Eurosport 1 HD) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  32/101 ) NOS.PT.E -- chan. (xmltv_id=Eurosport 2 HD) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  33/101 ) NOS.PT.E -- chan. (xmltv_id=Disney Channel) -- mode Force
@@ -252,7 +247,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  35/101 ) NOS.PT.E -- chan. (xmltv_id=Biggs) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  36/101 ) NOS.PT.E -- chan. (xmltv_id=SIC K HD) -- mode Force
@@ -290,7 +284,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  46/101 ) NOS.PT.E -- chan. (xmltv_id=TVCine ACTION) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  47/101 ) NOS.PT.E -- chan. (xmltv_id=NOS Studios) -- mode Force
@@ -307,7 +300,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  50/101 ) NOS.PT.E -- chan. (xmltv_id=FOX Movies) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  51/101 ) NOS.PT.E -- chan. (xmltv_id=AMC) -- mode Force
@@ -335,7 +327,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  59/101 ) NOS.PT.E -- chan. (xmltv_id=SYFY) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  60/101 ) NOS.PT.E -- chan. (xmltv_id=Discovery Channel) -- mode Force
@@ -372,15 +363,12 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  71/101 ) NOS.PT.E -- chan. (xmltv_id=SIC Radical HD) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  72/101 ) NOS.PT.E -- chan. (xmltv_id=MTV Portugal) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  73/101 ) NOS.PT.E -- chan. (xmltv_id=Blaze HD) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  74/101 ) NOS.PT.E -- chan. (xmltv_id=Fuel TV) -- mode Force
@@ -397,7 +385,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  77/101 ) NOS.PT.E -- chan. (xmltv_id=SIC Caras HD) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  78/101 ) NOS.PT.E -- chan. (xmltv_id=E! Entertainment) -- mode Force
@@ -407,26 +394,21 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  80/101 ) NOS.PT.E -- chan. (xmltv_id=FTV HD) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  81/101 ) NOS.PT.E -- chan. (xmltv_id=Trace Urban HD) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  82/101 ) NOS.PT.E -- chan. (xmltv_id=MCM Pop) -- mode Force
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  83/101 ) NOS.PT.E -- chan. (xmltv_id=Trace Toca) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  84/101 ) NOS.PT.E -- chan. (xmltv_id=RTP Açores) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  85/101 ) NOS.PT.E -- chan. (xmltv_id=RTP Madeira) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  86/101 ) NOS.PT.E -- chan. (xmltv_id=ARTV) -- mode Force
@@ -439,7 +421,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  89/101 ) NOS.PT.E -- chan. (xmltv_id=Kuriakos TV) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  90/101 ) NOS.PT.E -- chan. (xmltv_id=Canção Nova) -- mode Force
@@ -455,7 +436,6 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  94/101 ) NOS.PT.E -- chan. (xmltv_id=Record TV HD) -- mode Force
-[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  95/101 ) NOS.PT.E -- chan. (xmltv_id=RTP África) -- mode Force
@@ -491,9 +471,9 @@
 [Warning ] 
 [  Info  ] 
 [  Debug ] 
-[  Debug ] 2359 shows in 101 channels
+[  Debug ] 2954 shows in 101 channels
 [  Debug ] 0 updated shows
-[  Debug ] 2359 new shows added
+[  Debug ] 2954 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 24/04/2022 18:06:31 done in 6m 27s
+[        ] Job finished at 24/04/2022 21:07:52 done in 7m 46s
