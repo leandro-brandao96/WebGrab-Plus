@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 01/05/2022 09:00:02
+[        ] Job started at 01/05/2022 15:00:32
 [  Debug ] 
 [  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
 [  Debug ] Environment: 4.0.30319.42000
@@ -17,12 +17,464 @@
 [  Debug ] Reading config file: C:\Users\leand\AppData\Local\WebGrab+Plus\WebGrab++.config.xml
 [  Info  ] Checking License ..
 [  Info  ] For License request/update data, see WGLicense.log.txt
-[        ] Job finished at 01/05/2022 09:00:15 done in 12s
-[Critical] 
-A referência de objecto não foi definida como uma instância de um objecto.
-[Critical] 
-   em  . ..ctor(String )
-   em  .―. (String[] )
-[Critical] Unhandled Exception
-[Critical] For detailed info, see log file C:\Users\leand\AppData\Local\WebGrab+Plus\WebGrab++.log.txt
-[Critical] Execution stopped
+[  Debug ] 
+[  Info  ] found: C:\Users\leand\AppData\Local\WebGrab+Plus\siteini.pack\Portugal\nos.pt.E.ini -- Revision 07
+[  Info  ] encrypted in 'legacy (V2)' mode
+[  Debug ] 
+[  Info  ] found: C:\Users\leand\AppData\Local\WebGrab+Plus\siteini.pack\Portugal\meo.pt.ini -- Revision 06
+[  Debug ] xmltv input file - C:\Users\leand\AppData\Local\WebGrab+Plus\guide.xml - found
+[  Debug ] 2801 superfluous shows removed
+[  Info  ] Found existing channel (xmltv_id=RTP 1) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTP 2) in the config file
+[  Info  ] Found existing channel (xmltv_id=SIC) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVI) in the config file
+[  Info  ] Found existing channel (xmltv_id=SIC Notícias) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTP 3) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNN Portugal) in the config file
+[  Info  ] Found existing channel (xmltv_id=CMTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=SIC Mulher) in the config file
+[  Info  ] Found existing channel (xmltv_id=Globo) in the config file
+[  Info  ] Found existing channel (xmltv_id=Canal 11) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVI Ficção) in the config file
+[  Info  ] Found existing channel (xmltv_id=A BOLA TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=SPORT TV+ HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Porto Canal) in the config file
+[  Info  ] Found existing channel (xmltv_id=SPORT TV1 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=SPORT TV2 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=SPORT TV3 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=SPORT TV4 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=SPORT TV5 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sport TV NBA) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fight Network HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=BTV1 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=ELEVEN 1) in the config file
+[  Info  ] Found existing channel (xmltv_id=ELEVEN 2) in the config file
+[  Info  ] Found existing channel (xmltv_id=ELEVEN 3) in the config file
+[  Info  ] Found existing channel (xmltv_id=ELEVEN 4) in the config file
+[  Info  ] Found existing channel (xmltv_id=ELEVEN 5) in the config file
+[  Info  ] Found existing channel (xmltv_id=ELEVEN 6) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sporting TV HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 1 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 2 HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disney Channel) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cartoon Network) in the config file
+[  Info  ] Found existing channel (xmltv_id=Biggs) in the config file
+[  Info  ] Found existing channel (xmltv_id=SIC K HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nickelodeon) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nick Jr.) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disney Junior) in the config file
+[  Info  ] Found existing channel (xmltv_id=Canal Panda) in the config file
+[  Info  ] Found existing channel (xmltv_id=JIMJAM) in the config file
+[  Info  ] Found existing channel (xmltv_id=Baby TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVCine TOP) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVCine EDITION) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVCine EMOTION) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVCine ACTION) in the config file
+[  Info  ] Found existing channel (xmltv_id=NOS Studios) in the config file
+[  Info  ] Found existing channel (xmltv_id=CINEMUNDO HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Canal Hollywood) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Movies) in the config file
+[  Info  ] Found existing channel (xmltv_id=AMC) in the config file
+[  Info  ] Found existing channel (xmltv_id=AXN Movies) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Life) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Crime) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Comedy) in the config file
+[  Info  ] Found existing channel (xmltv_id=AXN) in the config file
+[  Info  ] Found existing channel (xmltv_id=AXN White) in the config file
+[  Info  ] Found existing channel (xmltv_id=SYFY) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discovery Channel) in the config file
+[  Info  ] Found existing channel (xmltv_id=História) in the config file
+[  Info  ] Found existing channel (xmltv_id=Odisseia) in the config file
+[  Info  ] Found existing channel (xmltv_id=National Geographic) in the config file
+[  Info  ] Found existing channel (xmltv_id=National Geographic WILD) in the config file
+[  Info  ] Found existing channel (xmltv_id=ID Investigation Discovery) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVI Reality) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTP Memória) in the config file
+[  Info  ] Found existing channel (xmltv_id=Casa e Cozinha HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Travel Channel) in the config file
+[  Info  ] Found existing channel (xmltv_id=Canal Q) in the config file
+[  Info  ] Found existing channel (xmltv_id=SIC Radical HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Portugal) in the config file
+[  Info  ] Found existing channel (xmltv_id=Blaze HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fuel TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Crime + Investigation) in the config file
+[  Info  ] Found existing channel (xmltv_id=CBS REALITY) in the config file
+[  Info  ] Found existing channel (xmltv_id=SIC Caras HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=E! Entertainment) in the config file
+[  Info  ] Found existing channel (xmltv_id=24Kitchen HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=FTV HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Trace Urban HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=MCM Pop) in the config file
+[  Info  ] Found existing channel (xmltv_id=Trace Toca) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTP Açores) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTP Madeira) in the config file
+[  Info  ] Found existing channel (xmltv_id=ARTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Toros TV HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Caça e Pesca) in the config file
+[  Info  ] Found existing channel (xmltv_id=Kuriakos TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Canção Nova) in the config file
+[  Info  ] Found existing channel (xmltv_id=DOGTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=PFC) in the config file
+[  Info  ] Found existing channel (xmltv_id=ZAP Viva HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=Record TV HD) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTP África) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNN) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNBC) in the config file
+[  Info  ] Found existing channel (xmltv_id=Euronews) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTP Internacional) in the config file
+[  Info  ] Found existing channel (xmltv_id=SIC Internacional) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVI Internacional) in the config file
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 0 - out of - 101 - channels for 1 day(s)
+[  Info  ] 
+[  Info  ] Group (1) :
+[  Info  ] update requested for - 101 - out of - 101 - channels for 1 day(s)
+[  Debug ] 
+[  Info  ] (   1/101 ) NOS.PT.E -- chan. (xmltv_id=RTP 1) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   2/101 ) NOS.PT.E -- chan. (xmltv_id=RTP 2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   3/101 ) NOS.PT.E -- chan. (xmltv_id=SIC) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   4/101 ) NOS.PT.E -- chan. (xmltv_id=TVI) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   5/101 ) NOS.PT.E -- chan. (xmltv_id=SIC Notícias) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   6/101 ) NOS.PT.E -- chan. (xmltv_id=RTP 3) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   7/101 ) NOS.PT.E -- chan. (xmltv_id=CNN Portugal) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   8/101 ) NOS.PT.E -- chan. (xmltv_id=CMTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   9/101 ) NOS.PT.E -- chan. (xmltv_id=SIC Mulher) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  10/101 ) NOS.PT.E -- chan. (xmltv_id=Globo) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  11/101 ) NOS.PT.E -- chan. (xmltv_id=Canal 11) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  12/101 ) MEO.PT -- chan. (xmltv_id=TVI Ficção) -- mode Force
+[Warning ] 
+[Warning ]   !! -- WARNING : meo.pt doesn't allow epg grabbing !!
+[Warning ] it is advised to disable this channel / site from your channel list
+[Warning ] 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  13/101 ) MEO.PT -- chan. (xmltv_id=A BOLA TV) -- mode Force
+[Warning ] 
+[Warning ]   !! -- WARNING : meo.pt doesn't allow epg grabbing !!
+[Warning ] it is advised to disable this channel / site from your channel list
+[Warning ] 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  14/101 ) NOS.PT.E -- chan. (xmltv_id=SPORT TV+ HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  15/101 ) NOS.PT.E -- chan. (xmltv_id=Porto Canal) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  16/101 ) NOS.PT.E -- chan. (xmltv_id=SPORT TV1 HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  17/101 ) NOS.PT.E -- chan. (xmltv_id=SPORT TV2 HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  18/101 ) NOS.PT.E -- chan. (xmltv_id=SPORT TV3 HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  19/101 ) NOS.PT.E -- chan. (xmltv_id=SPORT TV4 HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  20/101 ) NOS.PT.E -- chan. (xmltv_id=SPORT TV5 HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  21/101 ) NOS.PT.E -- chan. (xmltv_id=Sport TV NBA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  22/101 ) NOS.PT.E -- chan. (xmltv_id=Fight Network HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  23/101 ) NOS.PT.E -- chan. (xmltv_id=BTV1 HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  24/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 1) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  25/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  26/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 3) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  27/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 4) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  28/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 5) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  29/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 6) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  30/101 ) NOS.PT.E -- chan. (xmltv_id=Sporting TV HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  31/101 ) NOS.PT.E -- chan. (xmltv_id=Eurosport 1 HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  32/101 ) NOS.PT.E -- chan. (xmltv_id=Eurosport 2 HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  33/101 ) NOS.PT.E -- chan. (xmltv_id=Disney Channel) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  34/101 ) NOS.PT.E -- chan. (xmltv_id=Cartoon Network) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  35/101 ) NOS.PT.E -- chan. (xmltv_id=Biggs) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  36/101 ) NOS.PT.E -- chan. (xmltv_id=SIC K HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  37/101 ) NOS.PT.E -- chan. (xmltv_id=Nickelodeon) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  38/101 ) NOS.PT.E -- chan. (xmltv_id=Nick Jr.) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  39/101 ) NOS.PT.E -- chan. (xmltv_id=Disney Junior) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  40/101 ) NOS.PT.E -- chan. (xmltv_id=Canal Panda) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  41/101 ) MEO.PT -- chan. (xmltv_id=JIMJAM) -- mode Force
+[Warning ] 
+[Warning ]   !! -- WARNING : meo.pt doesn't allow epg grabbing !!
+[Warning ] it is advised to disable this channel / site from your channel list
+[Warning ] 
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  42/101 ) NOS.PT.E -- chan. (xmltv_id=Baby TV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  43/101 ) NOS.PT.E -- chan. (xmltv_id=TVCine TOP) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  44/101 ) NOS.PT.E -- chan. (xmltv_id=TVCine EDITION) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  45/101 ) NOS.PT.E -- chan. (xmltv_id=TVCine EMOTION) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  46/101 ) NOS.PT.E -- chan. (xmltv_id=TVCine ACTION) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  47/101 ) NOS.PT.E -- chan. (xmltv_id=NOS Studios) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  48/101 ) MEO.PT -- chan. (xmltv_id=CINEMUNDO HD) -- mode Force
+[Warning ] 
+[Warning ]   !! -- WARNING : meo.pt doesn't allow epg grabbing !!
+[Warning ] it is advised to disable this channel / site from your channel list
+[Warning ] 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  49/101 ) NOS.PT.E -- chan. (xmltv_id=Canal Hollywood) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  50/101 ) NOS.PT.E -- chan. (xmltv_id=FOX Movies) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  51/101 ) NOS.PT.E -- chan. (xmltv_id=AMC) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  52/101 ) NOS.PT.E -- chan. (xmltv_id=AXN Movies) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  53/101 ) NOS.PT.E -- chan. (xmltv_id=FOX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  54/101 ) NOS.PT.E -- chan. (xmltv_id=FOX Life) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  55/101 ) NOS.PT.E -- chan. (xmltv_id=FOX Crime) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  56/101 ) NOS.PT.E -- chan. (xmltv_id=FOX Comedy) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  57/101 ) NOS.PT.E -- chan. (xmltv_id=AXN) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  58/101 ) NOS.PT.E -- chan. (xmltv_id=AXN White) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  59/101 ) NOS.PT.E -- chan. (xmltv_id=SYFY) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  60/101 ) NOS.PT.E -- chan. (xmltv_id=Discovery Channel) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  61/101 ) NOS.PT.E -- chan. (xmltv_id=História) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  62/101 ) NOS.PT.E -- chan. (xmltv_id=Odisseia) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  63/101 ) NOS.PT.E -- chan. (xmltv_id=National Geographic) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  64/101 ) NOS.PT.E -- chan. (xmltv_id=National Geographic WILD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  65/101 ) NOS.PT.E -- chan. (xmltv_id=ID Investigation Discovery) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  66/101 ) NOS.PT.E -- chan. (xmltv_id=TVI Reality) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  67/101 ) NOS.PT.E -- chan. (xmltv_id=RTP Memória) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  68/101 ) NOS.PT.E -- chan. (xmltv_id=Casa e Cozinha HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  69/101 ) NOS.PT.E -- chan. (xmltv_id=Travel Channel) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  70/101 ) NOS.PT.E -- chan. (xmltv_id=Canal Q) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  71/101 ) NOS.PT.E -- chan. (xmltv_id=SIC Radical HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  72/101 ) NOS.PT.E -- chan. (xmltv_id=MTV Portugal) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  73/101 ) NOS.PT.E -- chan. (xmltv_id=Blaze HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  74/101 ) NOS.PT.E -- chan. (xmltv_id=Fuel TV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  75/101 ) NOS.PT.E -- chan. (xmltv_id=Crime + Investigation) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  76/101 ) MEO.PT -- chan. (xmltv_id=CBS REALITY) -- mode Force
+[Warning ] 
+[Warning ]   !! -- WARNING : meo.pt doesn't allow epg grabbing !!
+[Warning ] it is advised to disable this channel / site from your channel list
+[Warning ] 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  77/101 ) NOS.PT.E -- chan. (xmltv_id=SIC Caras HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  78/101 ) NOS.PT.E -- chan. (xmltv_id=E! Entertainment) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  79/101 ) NOS.PT.E -- chan. (xmltv_id=24Kitchen HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  80/101 ) NOS.PT.E -- chan. (xmltv_id=FTV HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  81/101 ) NOS.PT.E -- chan. (xmltv_id=Trace Urban HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  82/101 ) NOS.PT.E -- chan. (xmltv_id=MCM Pop) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  83/101 ) NOS.PT.E -- chan. (xmltv_id=Trace Toca) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  84/101 ) NOS.PT.E -- chan. (xmltv_id=RTP Açores) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  85/101 ) NOS.PT.E -- chan. (xmltv_id=RTP Madeira) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  86/101 ) NOS.PT.E -- chan. (xmltv_id=ARTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  87/101 ) NOS.PT.E -- chan. (xmltv_id=Toros TV HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  88/101 ) NOS.PT.E -- chan. (xmltv_id=Caça e Pesca) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  89/101 ) NOS.PT.E -- chan. (xmltv_id=Kuriakos TV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  90/101 ) NOS.PT.E -- chan. (xmltv_id=Canção Nova) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  91/101 ) NOS.PT.E -- chan. (xmltv_id=DOGTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  92/101 ) NOS.PT.E -- chan. (xmltv_id=PFC) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  93/101 ) NOS.PT.E -- chan. (xmltv_id=ZAP Viva HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  94/101 ) NOS.PT.E -- chan. (xmltv_id=Record TV HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  95/101 ) NOS.PT.E -- chan. (xmltv_id=RTP África) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  96/101 ) NOS.PT.E -- chan. (xmltv_id=CNN) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  97/101 ) NOS.PT.E -- chan. (xmltv_id=CNBC) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  98/101 ) NOS.PT.E -- chan. (xmltv_id=Euronews) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  99/101 ) MEO.PT -- chan. (xmltv_id=RTP Internacional) -- mode Force
+[Warning ] 
+[Warning ]   !! -- WARNING : meo.pt doesn't allow epg grabbing !!
+[Warning ] it is advised to disable this channel / site from your channel list
+[Warning ] 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 100/101 ) MEO.PT -- chan. (xmltv_id=SIC Internacional) -- mode Force
+[Warning ] 
+[Warning ]   !! -- WARNING : meo.pt doesn't allow epg grabbing !!
+[Warning ] it is advised to disable this channel / site from your channel list
+[Warning ] 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 101/101 ) MEO.PT -- chan. (xmltv_id=TVI Internacional) -- mode Force
+[Warning ] 
+[Warning ]   !! -- WARNING : meo.pt doesn't allow epg grabbing !!
+[Warning ] it is advised to disable this channel / site from your channel list
+[Warning ] 
+[  Info  ] 
+[  Debug ] 
+[  Debug ] 2801 shows in 101 channels
+[  Debug ] 0 updated shows
+[  Debug ] 2801 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 01/05/2022 15:09:10 done in 8m 38s
