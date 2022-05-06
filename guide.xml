@@ -8480,317 +8480,347 @@
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11042554/XL" />
     <episode-num system="onscreen">S1 E22</episode-num>
   </programme>
-  <programme start="20220506140000 +0100" stop="20220506140800 +0100" channel="JIMJAM">
+  <programme start="20220506140000 +0100" stop="20220506140500 +0100" channel="JIMJAM">
     <title lang="pt">Os Trigémeos</title>
     <desc lang="pt">Esta série de animação baseia-se na relação entre as irmãs Triplet Anna, Teresa e Helena, e a Bruxa Entediada.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11046782/XL" />
     <episode-num system="onscreen">S1 E23</episode-num>
   </programme>
-  <programme start="20220506140800 +0100" stop="20220506141700 +0100" channel="JIMJAM">
+  <programme start="20220506140500 +0100" stop="20220506141400 +0100" channel="JIMJAM">
+    <title lang="pt">Inui</title>
+    <desc lang="pt">Inui vive feliz no Polo Norte e diverte-se muito com os seus amigos animais. Juntos, eles brincam, têm aventuras e descobrem a beleza e o perigo da natureza.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13592535/XL" />
+    <episode-num system="onscreen">S1 E41</episode-num>
+  </programme>
+  <programme start="20220506141400 +0100" stop="20220506141900 +0100" channel="JIMJAM">
+    <title lang="pt">Woozle e Pip</title>
+    <desc lang="pt">Aventuras que giram em torno de dois filhotes e as suas aventuras no Jardim Mágico.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/16262486/XL" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20220506141900 +0100" stop="20220506142400 +0100" channel="JIMJAM">
+    <title lang="pt">Woozle e Pip</title>
+    <desc lang="pt">Aventuras que giram em torno de dois filhotes e as suas aventuras no Jardim Mágico.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/16262487/XL" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20220506142400 +0100" stop="20220506142900 +0100" channel="JIMJAM">
+    <title lang="pt">Woozle e Pip</title>
+    <desc lang="pt">Aventuras que giram em torno de dois filhotes e as suas aventuras no Jardim Mágico.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/16262494/XL" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20220506142900 +0100" stop="20220506143600 +0100" channel="JIMJAM">
+    <title lang="pt">Woozle e Pip</title>
+    <desc lang="pt">Aventuras que giram em torno de dois filhotes e as suas aventuras no Jardim Mágico.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/16262495/XL" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20220506143600 +0100" stop="20220506144400 +0100" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+    <desc lang="pt">Esta série de animação baseia-se na relação entre as irmãs Triplet Anna, Teresa e Helena, e a Bruxa Entediada.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11038291/XL" />
+    <episode-num system="onscreen">S1 E20</episode-num>
+  </programme>
+  <programme start="20220506144400 +0100" stop="20220506145200 +0100" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+    <desc lang="pt">Esta série de animação baseia-se na relação entre as irmãs Triplet Anna, Teresa e Helena, e a Bruxa Entediada.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11042553/XL" />
+    <episode-num system="onscreen">S1 E21</episode-num>
+  </programme>
+  <programme start="20220506145200 +0100" stop="20220506150000 +0100" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+    <desc lang="pt">Esta série de animação baseia-se na relação entre as irmãs Triplet Anna, Teresa e Helena, e a Bruxa Entediada.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11042554/XL" />
+    <episode-num system="onscreen">S1 E22</episode-num>
+  </programme>
+  <programme start="20220506150000 +0100" stop="20220506150800 +0100" channel="JIMJAM">
+    <title lang="pt">Os Trigémeos</title>
+    <desc lang="pt">Esta série de animação baseia-se na relação entre as irmãs Triplet Anna, Teresa e Helena, e a Bruxa Entediada.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11046782/XL" />
+    <episode-num system="onscreen">S1 E23</episode-num>
+  </programme>
+  <programme start="20220506150800 +0100" stop="20220506151700 +0100" channel="JIMJAM">
     <title lang="pt">Os Trigémeos</title>
     <desc lang="pt">Esta série de animação baseia-se na relação entre as irmãs Triplet Anna, Teresa e Helena, e a Bruxa Entediada.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11046783/XL" />
     <episode-num system="onscreen">S1 E24</episode-num>
   </programme>
-  <programme start="20220506141700 +0100" stop="20220506142900 +0100" channel="JIMJAM">
+  <programme start="20220506151700 +0100" stop="20220506152900 +0100" channel="JIMJAM">
     <title lang="pt">Clara</title>
     <desc lang="pt">Conni é uma garota de cinco anos que tem aventuras quotidianas, como ter seu primeiro pijama, ir aos cabeleireiro, conhecer novos amigos e festejar dias festivos com sua família.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12844418/XL" />
     <episode-num system="onscreen">S2 E21</episode-num>
   </programme>
-  <programme start="20220506142900 +0100" stop="20220506144100 +0100" channel="JIMJAM">
+  <programme start="20220506152900 +0100" stop="20220506154100 +0100" channel="JIMJAM">
     <title lang="pt">Clara</title>
     <desc lang="pt">Conni é uma garota de cinco anos que tem aventuras quotidianas, como ter seu primeiro pijama, ir aos cabeleireiro, conhecer novos amigos e festejar dias festivos com sua família.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12844419/XL" />
     <episode-num system="onscreen">S2 E22</episode-num>
   </programme>
-  <programme start="20220506144100 +0100" stop="20220506145300 +0100" channel="JIMJAM">
+  <programme start="20220506154100 +0100" stop="20220506155300 +0100" channel="JIMJAM">
     <title lang="pt">Clara</title>
     <desc lang="pt">Conni é uma garota de cinco anos que tem aventuras quotidianas, como ter seu primeiro pijama, ir aos cabeleireiro, conhecer novos amigos e festejar dias festivos com sua família.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12844426/XL" />
     <episode-num system="onscreen">S2 E23</episode-num>
   </programme>
-  <programme start="20220506145300 +0100" stop="20220506150600 +0100" channel="JIMJAM">
+  <programme start="20220506155300 +0100" stop="20220506160600 +0100" channel="JIMJAM">
     <title lang="pt">Clara</title>
     <desc lang="pt">Conni é uma garota de cinco anos que tem aventuras quotidianas, como ter seu primeiro pijama, ir aos cabeleireiro, conhecer novos amigos e festejar dias festivos com sua família.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12844427/XL" />
     <episode-num system="onscreen">S2 E24</episode-num>
   </programme>
-  <programme start="20220506150600 +0100" stop="20220506151800 +0100" channel="JIMJAM">
+  <programme start="20220506160600 +0100" stop="20220506161800 +0100" channel="JIMJAM">
     <title lang="pt">Senhor Texugo E Dona Raposa</title>
     <desc lang="pt">Histórias sobre adaptação e aceitação. Quem diria que o senhor Texugo e a dona Raposa se transformariam numa família?(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/16730251/XL" />
     <episode-num system="onscreen">S1 E43</episode-num>
   </programme>
-  <programme start="20220506151800 +0100" stop="20220506153000 +0100" channel="JIMJAM">
+  <programme start="20220506161800 +0100" stop="20220506163000 +0100" channel="JIMJAM">
     <title lang="pt">Senhor Texugo E Dona Raposa</title>
     <desc lang="pt">Histórias sobre adaptação e aceitação. Quem diria que o senhor Texugo e a dona Raposa se transformariam numa família?(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/16730252/XL" />
     <episode-num system="onscreen">S1 E44</episode-num>
   </programme>
-  <programme start="20220506153000 +0100" stop="20220506154200 +0100" channel="JIMJAM">
+  <programme start="20220506163000 +0100" stop="20220506164200 +0100" channel="JIMJAM">
     <title lang="pt">Senhor Texugo E Dona Raposa</title>
     <desc lang="pt">Histórias sobre adaptação e aceitação. Quem diria que o senhor Texugo e a dona Raposa se transformariam numa família?(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/16730253/XL" />
     <episode-num system="onscreen">S1 E45</episode-num>
   </programme>
-  <programme start="20220506154200 +0100" stop="20220506155600 +0100" channel="JIMJAM">
+  <programme start="20220506164200 +0100" stop="20220506165600 +0100" channel="JIMJAM">
     <title lang="pt">Senhor Texugo E Dona Raposa</title>
     <desc lang="pt">Histórias sobre adaptação e aceitação. Quem diria que o senhor Texugo e a dona Raposa se transformariam numa família?(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/16730254/XL" />
     <episode-num system="onscreen">S1 E46</episode-num>
   </programme>
-  <programme start="20220506155600 +0100" stop="20220506161000 +0100" channel="JIMJAM">
+  <programme start="20220506165600 +0100" stop="20220506171000 +0100" channel="JIMJAM">
     <title lang="pt">Descobre com o Jess</title>
     <desc lang="pt">A gata do carteiro Pat, Jess e os seus amigos, procuram respostas para perguntas da ciência e da natureza, incentivando as crianças a aprender sobre o mundo ao seu redor.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13470631/XL" />
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20220506161000 +0100" stop="20220506162100 +0100" channel="JIMJAM">
+  <programme start="20220506171000 +0100" stop="20220506172100 +0100" channel="JIMJAM">
     <title lang="pt">Thomas E Os Seus Amigos</title>
     <desc lang="pt">Thomas e seus amigos convidam as crianças a entrar num mundo de imaginação através dos carris dos comboios.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13470828/XL" />
     <episode-num system="onscreen">S19 E13</episode-num>
   </programme>
-  <programme start="20220506162100 +0100" stop="20220506163400 +0100" channel="JIMJAM">
+  <programme start="20220506172100 +0100" stop="20220506173400 +0100" channel="JIMJAM">
     <title lang="pt">Thomas E Os Seus Amigos</title>
     <desc lang="pt">Thomas e seus amigos convidam as crianças a entrar num mundo de imaginação através dos carris dos comboios.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13470829/XL" />
     <episode-num system="onscreen">S19 E14</episode-num>
   </programme>
-  <programme start="20220506163400 +0100" stop="20220506164200 +0100" channel="JIMJAM">
+  <programme start="20220506173400 +0100" stop="20220506174200 +0100" channel="JIMJAM">
     <title lang="pt">Bing</title>
     <desc lang="pt">Com a ajuda do seu amigo Flop, Bing vai viver grandes aventuras e perceber que não faz mal quando alguma coisa não corre tão bem como esperava.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11696526/XL" />
     <episode-num system="onscreen">S1 E49</episode-num>
   </programme>
-  <programme start="20220506164200 +0100" stop="20220506165000 +0100" channel="JIMJAM">
+  <programme start="20220506174200 +0100" stop="20220506175000 +0100" channel="JIMJAM">
     <title lang="pt">Bing</title>
     <desc lang="pt">Com a ajuda do seu amigo Flop, Bing vai viver grandes aventuras e perceber que não faz mal quando alguma coisa não corre tão bem como esperava.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11696527/XL" />
     <episode-num system="onscreen">S1 E50</episode-num>
   </programme>
-  <programme start="20220506165000 +0100" stop="20220506165800 +0100" channel="JIMJAM">
+  <programme start="20220506175000 +0100" stop="20220506175800 +0100" channel="JIMJAM">
     <title lang="pt">Bing</title>
     <desc lang="pt">Com a ajuda do seu amigo Flop, Bing vai viver grandes aventuras e perceber que não faz mal quando alguma coisa não corre tão bem como esperava.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11698829/XL" />
     <episode-num system="onscreen">S1 E51</episode-num>
   </programme>
-  <programme start="20220506165800 +0100" stop="20220506170700 +0100" channel="JIMJAM">
+  <programme start="20220506175800 +0100" stop="20220506180700 +0100" channel="JIMJAM">
     <title lang="pt">Bing</title>
     <desc lang="pt">Com a ajuda do seu amigo Flop, Bing vai viver grandes aventuras e perceber que não faz mal quando alguma coisa não corre tão bem como esperava.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11698830/XL" />
     <episode-num system="onscreen">S1 E52</episode-num>
   </programme>
-  <programme start="20220506170700 +0100" stop="20220506171900 +0100" channel="JIMJAM">
-    <title lang="pt">Aprende Com O Timmy</title>
-    <desc lang="pt">Aprenda sobre números, formas e muito mais com Timmy e seus amigos!(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11360147/XL" />
+  <programme start="20220506180700 +0100" stop="20220506181900 +0100" channel="JIMJAM">
+    <title lang="pt">Leo, O Guarda Florestal</title>
+    <desc lang="pt">Junta-te a Leo e aos seus amigos em aventuras emocionantes ao redor do mundo, explora locais exóticos e aprende curiosidades sobre os animais e a natureza.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/16262497/XL" />
     <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
-  <programme start="20220506171900 +0100" stop="20220506173200 +0100" channel="JIMJAM">
-    <title lang="pt">Aprende Com O Timmy</title>
-    <desc lang="pt">Aprenda sobre números, formas e muito mais com Timmy e seus amigos!(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11360148/XL" />
+  <programme start="20220506181900 +0100" stop="20220506183200 +0100" channel="JIMJAM">
+    <title lang="pt">Leo, O Guarda Florestal</title>
+    <desc lang="pt">Junta-te a Leo e aos seus amigos em aventuras emocionantes ao redor do mundo, explora locais exóticos e aprende curiosidades sobre os animais e a natureza.(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/16262498/XL" />
     <episode-num system="onscreen">S1 E12</episode-num>
   </programme>
-  <programme start="20220506173200 +0100" stop="20220506173900 +0100" channel="JIMJAM">
+  <programme start="20220506183200 +0100" stop="20220506183900 +0100" channel="JIMJAM">
     <title lang="pt">Benjamin E Deolinda</title>
     <desc lang="pt">O Benjamim e a Deolinda são os melhores amigos. Juntos, entram em muitas aventuras enquanto fazem novos amigos e aprendem sobre o mundo que os rodeia.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/16730164/XL" />
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20220506173900 +0100" stop="20220506175100 +0100" channel="JIMJAM">
+  <programme start="20220506183900 +0100" stop="20220506185100 +0100" channel="JIMJAM">
     <title lang="pt">Adivinha O Quanto Gosto De Ti</title>
     <desc lang="pt">Esta é a história de duas lebres castanhas, uma Grande e uma Pequena. A Pequena Lebre Castanha pergunta à Grande Lebre Castanha: “Adivinha o quanto gosto de ti?” e o programa continua com as duas a tentarem encontrar medidas cada vez maiores para quantificar o amor que sentem uma pela outra de modo a responderem à questão.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/7991728/XL" />
     <episode-num system="onscreen">S1 E52</episode-num>
   </programme>
-  <programme start="20220506175100 +0100" stop="20220506180300 +0100" channel="JIMJAM">
+  <programme start="20220506185100 +0100" stop="20220506190300 +0100" channel="JIMJAM">
     <title lang="pt">Adivinha O Quanto Gosto De Ti</title>
     <desc lang="pt">Esta é a história de duas lebres castanhas, uma Grande e uma Pequena. A Pequena Lebre Castanha pergunta à Grande Lebre Castanha: “Adivinha o quanto gosto de ti?” e o programa continua com as duas a tentarem encontrar medidas cada vez maiores para quantificar o amor que sentem uma pela outra de modo a responderem à questão.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/7991743/XL" />
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20220506180300 +0100" stop="20220506181600 +0100" channel="JIMJAM">
+  <programme start="20220506190300 +0100" stop="20220506191600 +0100" channel="JIMJAM">
     <title lang="pt">Adivinha O Quanto Gosto De Ti</title>
     <desc lang="pt">Esta é a história de duas lebres castanhas, uma Grande e uma Pequena. A Pequena Lebre Castanha pergunta à Grande Lebre Castanha: “Adivinha o quanto gosto de ti?” e o programa continua com as duas a tentarem encontrar medidas cada vez maiores para quantificar o amor que sentem uma pela outra de modo a responderem à questão.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/7991756/XL" />
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20220506181600 +0100" stop="20220506182800 +0100" channel="JIMJAM">
+  <programme start="20220506191600 +0100" stop="20220506192800 +0100" channel="JIMJAM">
     <title lang="pt">Senhor Texugo E Dona Raposa</title>
     <desc lang="pt">Histórias sobre adaptação e aceitação. Quem diria que o senhor Texugo e a dona Raposa se transformariam numa família?(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/16730181/XL" />
     <episode-num system="onscreen">S1 E16</episode-num>
   </programme>
-  <programme start="20220506182800 +0100" stop="20220506184000 +0100" channel="JIMJAM">
+  <programme start="20220506192800 +0100" stop="20220506194000 +0100" channel="JIMJAM">
     <title lang="pt">Senhor Texugo E Dona Raposa</title>
     <desc lang="pt">Histórias sobre adaptação e aceitação. Quem diria que o senhor Texugo e a dona Raposa se transformariam numa família?(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/16730182/XL" />
     <episode-num system="onscreen">S1 E17</episode-num>
   </programme>
-  <programme start="20220506184000 +0100" stop="20220506185700 +0100" channel="JIMJAM">
+  <programme start="20220506194000 +0100" stop="20220506195700 +0100" channel="JIMJAM">
     <title lang="pt">Senhor Texugo E Dona Raposa</title>
     <desc lang="pt">Histórias sobre adaptação e aceitação. Quem diria que o senhor Texugo e a dona Raposa se transformariam numa família?(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/16730183/XL" />
     <episode-num system="onscreen">S1 E18</episode-num>
   </programme>
-  <programme start="20220506185700 +0100" stop="20220506192300 +0100" channel="JIMJAM">
+  <programme start="20220506195700 +0100" stop="20220506202300 +0100" channel="JIMJAM">
     <title lang="pt">Viva O Óscar!</title>
     <desc lang="pt">Huckle Cat, Lowly Worm e seus amigos de Busytown têm aventuras divertidas enquanto tentam encontrar as respostas para alguns dos maiores mistérios da vida.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/16114451/XL" />
     <episode-num system="onscreen">S2 E25</episode-num>
   </programme>
-  <programme start="20220506192300 +0100" stop="20220506193400 +0100" channel="JIMJAM">
+  <programme start="20220506202300 +0100" stop="20220506203400 +0100" channel="JIMJAM">
     <title lang="pt">Harry E O Seu Balde Cheio De Dinossauros</title>
     <desc lang="pt">A avó de Harry deu-lhe o melhor presente de sempre, algo que mais ninguém tem. Um balde com cinco dinossauros de brincar, que ganham vida e são os seus melhores amigos.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/8679122/XL" />
     <episode-num system="onscreen">S1 E29</episode-num>
   </programme>
-  <programme start="20220506193400 +0100" stop="20220506194500 +0100" channel="JIMJAM">
+  <programme start="20220506203400 +0100" stop="20220506204500 +0100" channel="JIMJAM">
     <title lang="pt">Harry E O Seu Balde Cheio De Dinossauros</title>
     <desc lang="pt">A avó de Harry deu-lhe o melhor presente de sempre, algo que mais ninguém tem. Um balde com cinco dinossauros de brincar, que ganham vida e são os seus melhores amigos.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/8679105/XL" />
     <episode-num system="onscreen">S1 E30</episode-num>
   </programme>
-  <programme start="20220506194500 +0100" stop="20220506195700 +0100" channel="JIMJAM">
+  <programme start="20220506204500 +0100" stop="20220506205700 +0100" channel="JIMJAM">
     <title lang="pt">O Bombeiro Sam</title>
     <desc lang="pt">O Bombeiro Sam está sempre metido em emocionantes histórias de salvamento. Os incêndios têm de ser apagados, os gatos têm de ser resgatados das árvores, entre muitas outras aventuras. Felizmente, Sam está sempre pronto a ajudar.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11455246/XL" />
     <episode-num system="onscreen">S9 E7</episode-num>
   </programme>
-  <programme start="20220506195700 +0100" stop="20220506200900 +0100" channel="JIMJAM">
+  <programme start="20220506205700 +0100" stop="20220506210900 +0100" channel="JIMJAM">
     <title lang="pt">O Bombeiro Sam</title>
     <desc lang="pt">O Bombeiro Sam está sempre metido em emocionantes histórias de salvamento. Os incêndios têm de ser apagados, os gatos têm de ser resgatados das árvores, entre muitas outras aventuras. Felizmente, Sam está sempre pronto a ajudar.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11455247/XL" />
     <episode-num system="onscreen">S9 E8</episode-num>
   </programme>
-  <programme start="20220506200900 +0100" stop="20220506201900 +0100" channel="JIMJAM">
+  <programme start="20220506210900 +0100" stop="20220506211900 +0100" channel="JIMJAM">
     <title lang="pt">Thomas E Os Seus Amigos</title>
     <desc lang="pt">Thomas e seus amigos convidam as crianças a entrar num mundo de imaginação através dos carris dos comboios.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/15381795/XL" />
     <episode-num system="onscreen">S20 E7</episode-num>
   </programme>
-  <programme start="20220506201900 +0100" stop="20220506203200 +0100" channel="JIMJAM">
+  <programme start="20220506211900 +0100" stop="20220506213200 +0100" channel="JIMJAM">
     <title lang="pt">Thomas E Os Seus Amigos</title>
     <desc lang="pt">Thomas e seus amigos convidam as crianças a entrar num mundo de imaginação através dos carris dos comboios.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/15381796/XL" />
     <episode-num system="onscreen">S20 E8</episode-num>
   </programme>
-  <programme start="20220506203200 +0100" stop="20220506204800 +0100" channel="JIMJAM">
+  <programme start="20220506213200 +0100" stop="20220506214800 +0100" channel="JIMJAM">
     <title lang="pt">Carteiro Paulo - Serviço de Entregas Especial</title>
     <desc lang="pt">O carteiro Paulo foi promovido! Agora é responsável por entregas ainda mais especiais, com aventuras ainda mais espetaculares.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13958634/XL" />
     <episode-num system="onscreen">S2 E24</episode-num>
   </programme>
-  <programme start="20220506204800 +0100" stop="20220506210500 +0100" channel="JIMJAM">
+  <programme start="20220506214800 +0100" stop="20220506220500 +0100" channel="JIMJAM">
     <title lang="pt">Carteiro Paulo - Serviço de Entregas Especial</title>
     <desc lang="pt">O carteiro Paulo foi promovido! Agora é responsável por entregas ainda mais especiais, com aventuras ainda mais espetaculares.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13958645/XL" />
     <episode-num system="onscreen">S2 E25</episode-num>
   </programme>
-  <programme start="20220506210500 +0100" stop="20220506211300 +0100" channel="JIMJAM">
+  <programme start="20220506220500 +0100" stop="20220506221300 +0100" channel="JIMJAM">
     <title lang="pt">Bing</title>
     <desc lang="pt">Com a ajuda do seu amigo Flop, Bing vai viver grandes aventuras e perceber que não faz mal quando alguma coisa não corre tão bem como esperava.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11713694/XL" />
     <episode-num system="onscreen">S1 E59</episode-num>
   </programme>
-  <programme start="20220506211300 +0100" stop="20220506212100 +0100" channel="JIMJAM">
+  <programme start="20220506221300 +0100" stop="20220506222100 +0100" channel="JIMJAM">
     <title lang="pt">Bing</title>
     <desc lang="pt">Com a ajuda do seu amigo Flop, Bing vai viver grandes aventuras e perceber que não faz mal quando alguma coisa não corre tão bem como esperava.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11713695/XL" />
     <episode-num system="onscreen">S1 E60</episode-num>
   </programme>
-  <programme start="20220506212100 +0100" stop="20220506212900 +0100" channel="JIMJAM">
+  <programme start="20220506222100 +0100" stop="20220506222900 +0100" channel="JIMJAM">
     <title lang="pt">Bing</title>
     <desc lang="pt">Com a ajuda do seu amigo Flop, Bing vai viver grandes aventuras e perceber que não faz mal quando alguma coisa não corre tão bem como esperava.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11716411/XL" />
     <episode-num system="onscreen">S1 E61</episode-num>
   </programme>
-  <programme start="20220506212900 +0100" stop="20220506213700 +0100" channel="JIMJAM">
+  <programme start="20220506222900 +0100" stop="20220506223700 +0100" channel="JIMJAM">
     <title lang="pt">Bing</title>
     <desc lang="pt">Com a ajuda do seu amigo Flop, Bing vai viver grandes aventuras e perceber que não faz mal quando alguma coisa não corre tão bem como esperava.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11716412/XL" />
     <episode-num system="onscreen">S1 E62</episode-num>
   </programme>
-  <programme start="20220506213700 +0100" stop="20220506214600 +0100" channel="JIMJAM">
+  <programme start="20220506223700 +0100" stop="20220506224600 +0100" channel="JIMJAM">
     <title lang="pt">Bing</title>
     <desc lang="pt">Com a ajuda do seu amigo Flop, Bing vai viver grandes aventuras e perceber que não faz mal quando alguma coisa não corre tão bem como esperava.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11720178/XL" />
     <episode-num system="onscreen">S1 E63</episode-num>
   </programme>
-  <programme start="20220506214600 +0100" stop="20220506215900 +0100" channel="JIMJAM">
+  <programme start="20220506224600 +0100" stop="20220506225900 +0100" channel="JIMJAM">
     <title lang="pt">Monchhichi</title>
     <desc lang="pt">Monchhichi convida os espectadores a entrar na fábrica de árvores dos sonhos, um lugar mágico onde os sonhos mais doces são feitos. Monchhichi também permite que os espectadores reconheçam o valor do trabalho em equipa.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12731791/XL" />
     <episode-num system="onscreen">S1 E21</episode-num>
   </programme>
-  <programme start="20220506215900 +0100" stop="20220506221000 +0100" channel="JIMJAM">
+  <programme start="20220506225900 +0100" stop="20220506231000 +0100" channel="JIMJAM">
     <title lang="pt">Monchhichi</title>
     <desc lang="pt">Monchhichi convida os espectadores a entrar na fábrica de árvores dos sonhos, um lugar mágico onde os sonhos mais doces são feitos. Monchhichi também permite que os espectadores reconheçam o valor do trabalho em equipa.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12731792/XL" />
     <episode-num system="onscreen">S1 E22</episode-num>
   </programme>
-  <programme start="20220506221000 +0100" stop="20220506222100 +0100" channel="JIMJAM">
+  <programme start="20220506231000 +0100" stop="20220506232100 +0100" channel="JIMJAM">
     <title lang="pt">O Bombeiro Sam</title>
     <desc lang="pt">O Bombeiro Sam está sempre metido em emocionantes histórias de salvamento. Os incêndios têm de ser apagados, os gatos têm de ser resgatados das árvores, entre muitas outras aventuras. Felizmente, Sam está sempre pronto a ajudar.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11455255/XL" />
     <episode-num system="onscreen">S9 E14</episode-num>
   </programme>
-  <programme start="20220506222100 +0100" stop="20220506222600 +0100" channel="JIMJAM">
+  <programme start="20220506232100 +0100" stop="20220506232600 +0100" channel="JIMJAM">
     <title lang="pt">Chomp Squad</title>
     <desc lang="pt">Bem-vindos ao mundo onde os dinossauros nunca ficaram extintos!(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/14674735/XL" />
     <episode-num system="onscreen">S1 E18</episode-num>
   </programme>
-  <programme start="20220506222600 +0100" stop="20220506223300 +0100" channel="JIMJAM">
+  <programme start="20220506232600 +0100" stop="20220506233300 +0100" channel="JIMJAM">
     <title lang="pt">Chomp Squad</title>
     <desc lang="pt">Bem-vindos ao mundo onde os dinossauros nunca ficaram extintos!(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/14674736/XL" />
     <episode-num system="onscreen">S1 E19</episode-num>
   </programme>
-  <programme start="20220506223300 +0100" stop="20220506224400 +0100" channel="JIMJAM">
+  <programme start="20220506233300 +0100" stop="20220506234400 +0100" channel="JIMJAM">
     <title lang="pt">Tainá e os Guardiões da Amazónia</title>
     <desc lang="pt">Taina e os Guardiões da Amazónia estão sempre prontos a salvar a floresta.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/15143942/XL" />
     <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
-  <programme start="20220506224400 +0100" stop="20220506225700 +0100" channel="JIMJAM">
+  <programme start="20220506234400 +0100" stop="20220506235700 +0100" channel="JIMJAM">
     <title lang="pt">Tainá e os Guardiões da Amazónia</title>
     <desc lang="pt">Taina e os Guardiões da Amazónia estão sempre prontos a salvar a floresta.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/15143943/XL" />
     <episode-num system="onscreen">S1 E12</episode-num>
   </programme>
-  <programme start="20220506225700 +0100" stop="20220506230800 +0100" channel="JIMJAM">
+  <programme start="20220506235700 +0100" stop="20220507000800 +0100" channel="JIMJAM">
     <title lang="pt">Bob O Construtor</title>
     <desc lang="pt">Da construção à escavação, Bob, o Construtor , e a sua equipa de máquinas estão sempre prontos a enfrentar novos projetos. À medida que vão trabalhando, demonstram o poder do pensamento positivo e do trabalho em equipa para resolver problemas.(n)</desc>
     <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12088325/XL" />
     <episode-num system="onscreen">S1 E37</episode-num>
-  </programme>
-  <programme start="20220506230800 +0100" stop="20220506232000 +0100" channel="JIMJAM">
-    <title lang="pt">Bob O Construtor</title>
-    <desc lang="pt">Da construção à escavação, Bob, o Construtor , e a sua equipa de máquinas estão sempre prontos a enfrentar novos projetos. À medida que vão trabalhando, demonstram o poder do pensamento positivo e do trabalho em equipa para resolver problemas.(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12088326/XL" />
-    <episode-num system="onscreen">S1 E38</episode-num>
-  </programme>
-  <programme start="20220506232000 +0100" stop="20220506234600 +0100" channel="JIMJAM">
-    <title lang="pt">Viva O Óscar!</title>
-    <desc lang="pt">Huckle Cat, Lowly Worm e seus amigos de Busytown têm aventuras divertidas enquanto tentam encontrar as respostas para alguns dos maiores mistérios da vida.(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/10545456/XL" />
-    <episode-num system="onscreen">S1 E19</episode-num>
-  </programme>
-  <programme start="20220506234600 +0100" stop="20220506235600 +0100" channel="JIMJAM">
-    <title lang="pt">Descobre com o Jess</title>
-    <desc lang="pt">A gata do carteiro Pat, Jess e os seus amigos, procuram respostas para perguntas da ciência e da natureza, incentivando as crianças a aprender sobre o mundo ao seu redor.(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13470904/XL" />
-    <episode-num system="onscreen">S1 E25</episode-num>
-  </programme>
-  <programme start="20220506235600 +0100" stop="20220507000800 +0100" channel="JIMJAM">
-    <title lang="pt">Descobre com o Jess</title>
-    <desc lang="pt">A gata do carteiro Pat, Jess e os seus amigos, procuram respostas para perguntas da ciência e da natureza, incentivando as crianças a aprender sobre o mundo ao seu redor.(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/13470919/XL" />
-    <episode-num system="onscreen">S1 E26</episode-num>
   </programme>
   <programme start="20220506003000 +0100" stop="20220506010000 +0100" channel="Baby TV">
     <title lang="pt">A Lua e as Estrelas</title>
