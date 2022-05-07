@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 07/05/2022 15:00:07
+[        ] Job started at 07/05/2022 18:00:11
 [  Debug ] 
 [  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
 [  Debug ] Environment: 4.0.30319.42000
@@ -17,7 +17,7 @@
 [  Debug ] Reading config file: C:\Users\leand\AppData\Local\WebGrab+Plus\WebGrab++.config.xml
 [  Info  ] Checking License ..
 [  Info  ] For License request/update data, see WGLicense.log.txt
-[        ] Job finished at 07/05/2022 15:00:15 done in 8s
+[        ] Job finished at 07/05/2022 18:00:24 done in 12s
 [Critical] 
 A referência de objecto não foi definida como uma instância de um objecto.
 [Critical] 
