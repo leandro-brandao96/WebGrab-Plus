@@ -1,10 +1,7 @@
 ﻿[        ] WebGrab++ license request and update log
-[        ] 2022/05/08 06:00
-[  Info  ] Program update available !! - Version 3.2.3 @http://webgrabplus.com/download/sw/v3.2.3
+[        ] 2022/05/08 09:00
 [        ] 
-[  Info  ] License request/update
-[  Info  ] Username 'leandro-brandao96'
-[  Info  ] License status : 'True'
+[  Info  ] No License update required
 [  Info  ] Next update, first run after : 2022/05/15 06:00
 [  Info  ] The program will run with performance settings : 'donator_license'
 [  Info  ] License check .. done
