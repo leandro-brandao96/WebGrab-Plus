@@ -1,5 +1,5 @@
 #  Hot_Cookies, saved for the purpose of an actual WebGrab run
-#  Saved by WG++ 09/05/2022 21:09
+#  Saved by WG++ 10/05/2022 21:17
 #  Response cookie from url :https://www.meo.pt/_layouts/15/Ptsi.Isites.GridTv/GridTvMng.asmx/getProgramDetails
 
-www.meo.pt	FALSE	/	TRUE	0	UqZBpD3n3iPIDwJU9DmYiWmKWrQY8YkFYM3779Xb	v1SJo8g++CWih
+www.meo.pt	FALSE	/	TRUE	0	UqZBpD3n3iPIDwJU9DmYiWmKWrQY8YkFYM3779Xb	v1YJo8g++Cz9k
