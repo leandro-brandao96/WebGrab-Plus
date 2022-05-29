@@ -1,2 +1,2 @@
 ﻿[        ] WebGrab++ license request and update log
-[        ] 2022/05/28 21:00
+[        ] 2022/05/29 09:00
