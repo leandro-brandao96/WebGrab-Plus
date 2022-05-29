@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 29/05/2022 09:00:05
+[        ] Job started at 29/05/2022 12:00:04
 [  Debug ] 
 [  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
 [  Debug ] Environment: 4.0.30319.42000
@@ -17,12 +17,6 @@
 [  Debug ] Reading config file: C:\Users\leand\AppData\Local\WebGrab+Plus\WebGrab++.config.xml
 [  Info  ] Checking License ..
 [  Info  ] For License request/update data, see WGLicense.log.txt
-[        ] Job finished at 29/05/2022 09:00:14 done in 8s
-[Critical] 
-A referência de objecto não foi definida como uma instância de um objecto.
-[Critical] 
-   em  . ..ctor(String )
-   em  .―. (String[] )
-[Critical] Unhandled Exception
-[Critical] For detailed info, see log file C:\Users\leand\AppData\Local\WebGrab+Plus\WebGrab++.log.txt
-[Critical] Execution stopped
+[Warning ] 
+[  Info  ] Hardware mismatch detected .. see WGLicense.log.txt for details
+[Warning ] Program will close .. 
