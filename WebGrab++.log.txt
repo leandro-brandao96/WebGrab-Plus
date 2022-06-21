@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 21/06/2022 21:00:03
+[        ] Job started at 22/06/2022 00:00:02
 [  Debug ] 
 [  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
 [  Debug ] Environment: 4.0.30319.42000
@@ -23,7 +23,7 @@
 [  Debug ] 
 [  Info  ] found: C:\Users\leand\AppData\Local\WebGrab+Plus\siteini.pack\Portugal\meo.pt.ini -- Revision 06
 [  Debug ] xmltv input file - C:\Users\leand\AppData\Local\WebGrab+Plus\guide.xml - found
-[  Debug ] 3101 superfluous shows removed
+[  Debug ] 0 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=RTP 1) in the config file
 [  Info  ] Found existing channel (xmltv_id=RTP 2) in the config file
 [  Info  ] Found existing channel (xmltv_id=SIC) in the config file
@@ -471,9 +471,9 @@
 [Warning ] 
 [  Info  ] 
 [  Debug ] 
-[  Debug ] 3101 shows in 101 channels
+[  Debug ] 3106 shows in 101 channels
 [  Debug ] 0 updated shows
-[  Debug ] 3101 new shows added
+[  Debug ] 3106 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 21/06/2022 21:06:08 done in 6m 4s
+[        ] Job finished at 22/06/2022 00:06:25 done in 6m 23s
