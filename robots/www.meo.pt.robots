@@ -10,7 +10,7 @@ Allow: /_catalogs/
 Allow: /ScriptResource.axd
 
 User-agent: cludo
-Crawl-delay: 1
+Crawl-delay: 10
 
 
 Sitemap: http://www.meo.pt:80/sitemap.xml
