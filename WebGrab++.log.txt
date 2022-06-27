@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 27/06/2022 00:00:03
+[        ] Job started at 27/06/2022 03:00:02
 [  Debug ] 
 [  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
 [  Debug ] Environment: 4.0.30319.42000
@@ -23,7 +23,7 @@
 [  Debug ] 
 [  Info  ] found: C:\Users\leand\AppData\Local\WebGrab+Plus\siteini.pack\Portugal\meo.pt.ini -- Revision 06
 [  Debug ] xmltv input file - C:\Users\leand\AppData\Local\WebGrab+Plus\guide.xml - found
-[  Debug ] 0 superfluous shows removed
+[  Debug ] 3016 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=RTP 1) in the config file
 [  Info  ] Found existing channel (xmltv_id=RTP 2) in the config file
 [  Info  ] Found existing channel (xmltv_id=SIC) in the config file
@@ -152,6 +152,8 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   6/101 ) NOS.PT.E -- chan. (xmltv_id=RTP 3) -- mode Force
+[Warning ] error downloading page: O tempo limite da operação expirou (5sec)
+[Warning ] Retry 1 of 4 times
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   7/101 ) NOS.PT.E -- chan. (xmltv_id=CNN Portugal) -- mode Force
@@ -211,6 +213,8 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  23/101 ) NOS.PT.E -- chan. (xmltv_id=BTV1 HD) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  24/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 1) -- mode Force
@@ -220,6 +224,10 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  26/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 3) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  27/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 4) -- mode Force
@@ -229,15 +237,21 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  29/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 6) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  30/101 ) NOS.PT.E -- chan. (xmltv_id=Sporting TV HD) -- mode Force
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  31/101 ) NOS.PT.E -- chan. (xmltv_id=Eurosport 1 HD) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  32/101 ) NOS.PT.E -- chan. (xmltv_id=Eurosport 2 HD) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  33/101 ) NOS.PT.E -- chan. (xmltv_id=Disney Channel) -- mode Force
@@ -253,15 +267,23 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  37/101 ) NOS.PT.E -- chan. (xmltv_id=Nickelodeon) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  38/101 ) NOS.PT.E -- chan. (xmltv_id=Nick Jr.) -- mode Force
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  39/101 ) NOS.PT.E -- chan. (xmltv_id=Disney Junior) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  40/101 ) NOS.PT.E -- chan. (xmltv_id=Canal Panda) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  41/101 ) MEO.PT -- chan. (xmltv_id=JIMJAM) -- mode Force
@@ -318,6 +340,10 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  56/101 ) NOS.PT.E -- chan. (xmltv_id=FOX Comedy) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  57/101 ) NOS.PT.E -- chan. (xmltv_id=AXN) -- mode Force
@@ -339,6 +365,8 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  63/101 ) NOS.PT.E -- chan. (xmltv_id=National Geographic) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  64/101 ) NOS.PT.E -- chan. (xmltv_id=National Geographic WILD) -- mode Force
@@ -348,6 +376,8 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  66/101 ) NOS.PT.E -- chan. (xmltv_id=TVI Reality) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  67/101 ) NOS.PT.E -- chan. (xmltv_id=RTP Memória) -- mode Force
@@ -357,6 +387,8 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  69/101 ) NOS.PT.E -- chan. (xmltv_id=Travel Channel) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  70/101 ) NOS.PT.E -- chan. (xmltv_id=Canal Q) -- mode Force
@@ -372,6 +404,10 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  74/101 ) NOS.PT.E -- chan. (xmltv_id=Fuel TV) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  75/101 ) NOS.PT.E -- chan. (xmltv_id=Crime + Investigation) -- mode Force
@@ -391,9 +427,17 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  79/101 ) NOS.PT.E -- chan. (xmltv_id=24Kitchen HD) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  80/101 ) NOS.PT.E -- chan. (xmltv_id=FTV HD) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  81/101 ) NOS.PT.E -- chan. (xmltv_id=Trace Urban HD) -- mode Force
@@ -406,6 +450,8 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  84/101 ) NOS.PT.E -- chan. (xmltv_id=RTP Açores) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  85/101 ) NOS.PT.E -- chan. (xmltv_id=RTP Madeira) -- mode Force
@@ -415,12 +461,16 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  87/101 ) NOS.PT.E -- chan. (xmltv_id=Toros TV HD) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  88/101 ) NOS.PT.E -- chan. (xmltv_id=Caça e Pesca) -- mode Force
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  89/101 ) NOS.PT.E -- chan. (xmltv_id=Kuriakos TV) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  90/101 ) NOS.PT.E -- chan. (xmltv_id=Canção Nova) -- mode Force
@@ -430,15 +480,21 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  92/101 ) NOS.PT.E -- chan. (xmltv_id=PFC) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  93/101 ) NOS.PT.E -- chan. (xmltv_id=ZAP Viva HD) -- mode Force
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  94/101 ) NOS.PT.E -- chan. (xmltv_id=Record TV HD) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  95/101 ) NOS.PT.E -- chan. (xmltv_id=RTP África) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  96/101 ) NOS.PT.E -- chan. (xmltv_id=CNN) -- mode Force
@@ -448,6 +504,8 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  98/101 ) NOS.PT.E -- chan. (xmltv_id=Euronews) -- mode Force
+[Warning ] error downloading page: A ligação subjacente foi fechada: Erro inesperado ao receber.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  99/101 ) MEO.PT -- chan. (xmltv_id=RTP Internacional) -- mode Force
@@ -471,9 +529,9 @@
 [Warning ] 
 [  Info  ] 
 [  Debug ] 
-[  Debug ] 3016 shows in 101 channels
+[  Debug ] 3061 shows in 101 channels
 [  Debug ] 0 updated shows
-[  Debug ] 3016 new shows added
+[  Debug ] 3061 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 27/06/2022 00:06:27 done in 6m 23s
+[        ] Job finished at 27/06/2022 03:14:59 done in 14m 56s
