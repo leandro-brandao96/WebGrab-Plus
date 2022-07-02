@@ -2679,124 +2679,126 @@
     <desc lang="pt">As novidades que marcam o mundo do desporto neste último espaço informativo do dia da Sport TV.(n)</desc>
     <category lang="pt">Desporto</category>
   </programme>
-  <programme start="20220702004500 +0100" stop="20220702010000 +0100" channel="Porto Canal">
-    <title lang="pt">É Para Ganhar</title>
-    <desc lang="pt">Programa dedicado às artes, com destaque para a música e dança.(n)</desc>
-    <category lang="pt">Desporto</category>
-  </programme>
-  <programme start="20220702010000 +0100" stop="20220702030000 +0100" channel="Porto Canal">
+  <programme start="20220702003000 +0100" stop="20220702023000 +0100" channel="Porto Canal">
     <title lang="pt">Noite Desportiva</title>
-    <desc lang="pt">O Porto Canal vai estar presente semanalmente na Comissão Europeia para dar voz aos Eurodeputados eleitos, e para perceber de perto o que estes defendem.(n)</desc>
     <category lang="pt">Desporto</category>
   </programme>
-  <programme start="20220702030000 +0100" stop="20220702040000 +0100" channel="Porto Canal">
-    <title lang="pt">Ao Norte</title>
+  <programme start="20220702023000 +0100" stop="20220702033000 +0100" channel="Porto Canal">
+    <title lang="pt">Somos Academia</title>
+    <desc lang="pt">O #SomosAcademia é um programa em parceria com a Federação Académica do Porto onde se discute a atualidade e os problemas do Ensino Superior, quer na Academia do Porto, quer a nível nacional. Ana Rita Basto, recebe a Presidente da FAP, Ana Gabriela Cabilhas e outros dois convidados.(n)</desc>
+    <category lang="pt">Informacao</category>
+  </programme>
+  <programme start="20220702033000 +0100" stop="20220702040000 +0100" channel="Porto Canal">
+    <title lang="pt">Cinema Batalha</title>
+    <desc lang="pt">Programa dedicado á Sétima Arte. Todas as estreias, novidades, curiosidades e até retrospetivas, que acontecem no mundo do cinema, são apresentadas neste programa todas as semanas.(n)</desc>
     <category lang="pt">Entretenimento</category>
   </programme>
   <programme start="20220702040000 +0100" stop="20220702043000 +0100" channel="Porto Canal">
-    <title lang="pt">Imperdíveis</title>
-    <desc lang="pt">Sabemos que nem tudo o que brilha é ouro, mas porque não lhe dar um toque mais brilhante? A enérgica Carina Caldeira propõe encher a tela de glitter e apresentar-lhe o que de melhor existe no nosso país.(n)</desc>
+    <title lang="pt">Café Concerto</title>
+    <desc lang="pt">Programa dedicado às artes, com destaque para a música e dança.(n)</desc>
     <category lang="pt">Entretenimento</category>
   </programme>
-  <programme start="20220702043000 +0100" stop="20220702073000 +0100" channel="Porto Canal">
-    <title lang="pt">Viver Aqui</title>
+  <programme start="20220702043000 +0100" stop="20220702050000 +0100" channel="Porto Canal">
+    <title lang="pt">Pole Position</title>
     <desc lang="pt">O Pole Position é um magazine de desporto automóvel, com notícias de atualidade de todas as modalidades. Desde os ralis, ao Todo Terreno, passando pela velocidade, montanha ou Karting. Além das competições, a ideia é contar histórias também sobre os protagonistas como pilotos, equipas ou clubes.(n)</desc>
+    <category lang="pt">Desporto</category>
+  </programme>
+  <programme start="20220702050000 +0100" stop="20220702073000 +0100" channel="Porto Canal">
+    <title lang="pt">Viver Aqui</title>
+    <desc lang="pt">Programa dedicado à valorização e promoção da região Norte.(n)</desc>
     <category lang="pt">Entretenimento</category>
   </programme>
   <programme start="20220702073000 +0100" stop="20220702080000 +0100" channel="Porto Canal">
-    <title lang="pt">Cinema Batalha</title>
-    <desc lang="pt">Agenda Cultural apresenta semanalmente com sugestões e novidades no meio cultural do Porto e Norte do país.  Exposições, concertos, cinema, arte etc. vão ser os temas em destaque.(n)</desc>
+    <title lang="pt">Glitter Late Night</title>
+    <desc lang="pt">Programa de entretenimento, apresentado por Carina Caldeira e gravado nos estúdios da Altice Portugal em Lisboa, traz semanalmente ao ecrã dos portugueses, uma conversa descontraída com as figuras mais conhecidas da atualidade.(n)</desc>
     <category lang="pt">Entretenimento</category>
   </programme>
-  <programme start="20220702080000 +0100" stop="20220702100000 +0100" channel="Porto Canal">
-    <title lang="pt">Manhã Informativa</title>
-    <desc lang="pt">Programa dedicado às artes, com destaque para a música e dança.(n)</desc>
+  <programme start="20220702080000 +0100" stop="20220702093000 +0100" channel="Porto Canal">
+    <title lang="pt">Consultório - Compacto</title>
+    <desc lang="pt">O programa Consultório é o seu consultório médico televisivo, sobre saúde e bem-estar, de segunda a sexta-feira. A apresentadora Alexandra Martins conversa com especialistas das mais diversas áreas da medicina.(n)</desc>
+    <category lang="pt">Entretenimento</category>
+  </programme>
+  <programme start="20220702093000 +0100" stop="20220702100000 +0100" channel="Porto Canal">
+    <title lang="pt">Planeta Verde</title>
+    <desc lang="pt">O Planeta Verde é um programa que mostra o que de melhor e mais transformador se faz na área do Ambiente no nosso país. O intuito é que seja um programa que inspire a mudar comportamentos e a saber mais sobre projetos sustentáveis com impacto positivo.(n)</desc>
     <category lang="pt">Informacao</category>
   </programme>
-  <programme start="20220702100000 +0100" stop="20220702103000 +0100" channel="Porto Canal">
-    <title lang="pt">Universo Porto</title>
-    <desc lang="pt">Programa dedicado à valorização e promoção da região Norte.(n)</desc>
-    <category lang="pt">Desporto</category>
-  </programme>
-  <programme start="20220702103000 +0100" stop="20220702110000 +0100" channel="Porto Canal">
-    <title lang="pt">Imperdíveis</title>
-    <desc lang="pt">O Planeta Verde é um programa que mostra o que de melhor e mais transformador se faz na área do Ambiente no nosso país. O intuito é que seja um programa que inspire a mudar comportamentos e a saber mais sobre projetos sustentáveis com impacto positivo.(n)</desc>
-    <category lang="pt">Entretenimento</category>
-  </programme>
-  <programme start="20220702110000 +0100" stop="20220702111500 +0100" channel="Porto Canal">
-    <title lang="pt">Cinema Batalha - Agenda</title>
-    <desc lang="pt">Espaço de informação com notícias que marcam a atualidade, com especial enfoque ao que se passa no Norte. Dá também a conhecer os valores e as tradições culturais, religiosas, e gastronómicas do Norte do país.(n)</desc>
-    <category lang="pt">Entretenimento</category>
-  </programme>
-  <programme start="20220702111500 +0100" stop="20220702113000 +0100" channel="Porto Canal">
-    <title lang="pt">N'Agenda</title>
+  <programme start="20220702100000 +0100" stop="20220702110000 +0100" channel="Porto Canal">
+    <title lang="pt">Filhos &amp; Cadilhos</title>
     <desc lang="pt">Filhos e Cadilhos é um programa dedicado à parental idade, com duração de 50 minutos. Semanalmente, através de convidados em estúdio e diversas reportagens, aborda questões relacionadas com a gravidez, recém-nascidos e crianças, e o que diga respeito á sua saúde, alimentação, entre outros temas.(n)</desc>
     <category lang="pt">Entretenimento</category>
   </programme>
-  <programme start="20220702113000 +0100" stop="20220702120000 +0100" channel="Porto Canal">
-    <title lang="pt">Caminhos da História</title>
-    <desc lang="pt">Sabemos que nem tudo o que brilha é ouro, mas porque não lhe dar um toque mais brilhante? A enérgica Carina Caldeira propõe encher a tela de glitter e apresentar-lhe o que de melhor existe no nosso país.(n)</desc>
-    <category lang="pt">Informacao</category>
+  <programme start="20220702110000 +0100" stop="20220702120000 +0100" channel="Porto Canal">
+    <title lang="pt">Viver Aqui</title>
+    <desc lang="pt">Programa dedicado à valorização e promoção da região Norte.(n)</desc>
+    <category lang="pt">Entretenimento</category>
   </programme>
   <programme start="20220702120000 +0100" stop="20220702130000 +0100" channel="Porto Canal">
     <title lang="pt">Manhã Informativa</title>
-    <desc lang="pt">Programa dedicado á Sétima Arte. Todas as estreias, novidades, curiosidades e até retrospetivas, que acontecem no mundo do cinema, são apresentadas neste programa todas as semanas.(n)</desc>
-    <category lang="pt">Informacao</category>
-  </programme>
-  <programme start="20220702130000 +0100" stop="20220702134500 +0100" channel="Porto Canal">
-    <title lang="pt">Justiça Às Claras</title>
     <desc lang="pt">Espaço de informação com notícias que marcam a atualidade, com especial enfoque ao que se passa no Norte. Dá também a conhecer os valores e as tradições culturais, religiosas, e gastronómicas do Norte do país.(n)</desc>
     <category lang="pt">Informacao</category>
   </programme>
-  <programme start="20220702134500 +0100" stop="20220702140000 +0100" channel="Porto Canal">
-    <title lang="pt">Há Ir e Voltar</title>
-    <desc lang="pt">O Porto Canal vai estar presente semanalmente na Comissão Europeia para dar voz aos Eurodeputados eleitos, e para perceber de perto o que estes defendem.(n)</desc>
-    <category lang="pt">Entretenimento</category>
-  </programme>
-  <programme start="20220702140000 +0100" stop="20220702160000 +0100" channel="Porto Canal">
-    <title lang="pt">Consultório</title>
-    <desc lang="pt">Dicas de poupança a não perder!(n)</desc>
-    <category lang="pt">Entretenimento</category>
-  </programme>
-  <programme start="20220702160000 +0100" stop="20220702183000 +0100" channel="Porto Canal">
-    <title lang="pt">Viver Aqui</title>
-    <desc lang="pt">Conheça os jovens músicos, de todos os géneros musicais, nas áreas da criação, interpretação e/ou desempenho em palco, galardoados nesta edição do Prémio Novos Talentos Ageas.(n)</desc>
-    <category lang="pt">Entretenimento</category>
-  </programme>
-  <programme start="20220702183000 +0100" stop="20220702194500 +0100" channel="Porto Canal">
-    <title lang="pt">Tarde Informativa</title>
-    <desc lang="pt">O programa Consultório é o seu consultório médico televisivo, sobre saúde e bem-estar, de segunda a sexta-feira. Em direto, a apresentadora Alexandra Martins conversa com especialistas das mais diversas áreas da medicina.(n)</desc>
-    <category lang="pt">Informacao</category>
-  </programme>
-  <programme start="20220702194500 +0100" stop="20220702200000 +0100" channel="Porto Canal">
-    <title lang="pt">Flash Porto</title>
-    <desc lang="pt">Programa dedicado à valorização e promoção da região Norte.(n)</desc>
-    <category lang="pt">Desporto</category>
-  </programme>
-  <programme start="20220702200000 +0100" stop="20220702203000 +0100" channel="Porto Canal">
-    <title lang="pt">Ao Norte</title>
-    <desc lang="pt">Espaço de informação diária do Porto Canal.(n)</desc>
-    <category lang="pt">Entretenimento</category>
-  </programme>
-  <programme start="20220702203000 +0100" stop="20220702211500 +0100" channel="Porto Canal">
-    <title lang="pt">Universo Porto</title>
-    <desc lang="pt">Espaço diário de notícias e comentário do FC Porto.(n)</desc>
-    <category lang="pt">Desporto</category>
-  </programme>
-  <programme start="20220702211500 +0100" stop="20220702213000 +0100" channel="Porto Canal">
-    <title lang="pt">É Para Ganhar</title>
-    <desc lang="pt">O Pole Position é um magazine de desporto automóvel, com notícias de atualidade de todas as modalidades. Desde os ralis, ao Todo Terreno, passando pela velocidade, montanha ou Karting. Além das competições, a ideia é contar histórias também sobre os protagonistas como pilotos, equipas ou clubes.(n)</desc>
-    <category lang="pt">Desporto</category>
-  </programme>
-  <programme start="20220702213000 +0100" stop="20220702220000 +0100" channel="Porto Canal">
-    <title lang="pt">Glitter Late Night</title>
+  <programme start="20220702130000 +0100" stop="20220702133000 +0100" channel="Porto Canal">
+    <title lang="pt">Caminhos da História</title>
     <desc lang="pt">Programa dedicado à divulgação da história e do património do nosso país, esta série visa a valorização da nossa memória através de percursos no território e de visitas a monumentos, na companhia do arqueólogo e historiador Joel Cleto.(n)</desc>
+    <category lang="pt">Informacao</category>
+  </programme>
+  <programme start="20220702133000 +0100" stop="20220702140000 +0100" channel="Porto Canal">
+    <title lang="pt">Cinema Batalha</title>
+    <desc lang="pt">Programa dedicado á Sétima Arte. Todas as estreias, novidades, curiosidades e até retrospetivas, que acontecem no mundo do cinema, são apresentadas neste programa todas as semanas.(n)</desc>
     <category lang="pt">Entretenimento</category>
   </programme>
-  <programme start="20220702220000 +0100" stop="20220703000000 +0100" channel="Porto Canal">
-    <title lang="pt">Noite Informativa</title>
-    <desc lang="pt">Programa sobre toda a atualidade, das diferentes modalidades do FC Porto.(n)</desc>
+  <programme start="20220702140000 +0100" stop="20220702143000 +0100" channel="Porto Canal">
+    <title lang="pt">N'Agenda - Entrevista</title>
+    <desc lang="pt">Agenda Cultural apresenta semanalmente com sugestões e novidades no meio cultural do Porto e Norte do país.  Exposições, concertos, cinema, arte etc. vão ser os temas em destaque.(n)</desc>
+    <category lang="pt">Entretenimento</category>
+  </programme>
+  <programme start="20220702143000 +0100" stop="20220702153000 +0100" channel="Porto Canal">
+    <title lang="pt">Azul Porto</title>
+    <desc lang="pt">A cada programa um convidado especial do universo azul e branco.(n)</desc>
     <category lang="pt">Informacao</category>
+  </programme>
+  <programme start="20220702153000 +0100" stop="20220702154500 +0100" channel="Porto Canal">
+    <title lang="pt">Atletismo - Montemuro Vertical Run</title>
+    <category lang="pt">Desporto</category>
+  </programme>
+  <programme start="20220702154500 +0100" stop="20220702171500 +0100" channel="Porto Canal">
+    <title lang="pt">Bilhar - Taça Europa de Clubes</title>
+    <desc lang="pt">As melhores competições de Bilhar aqui no Porto Canal.(n)</desc>
+    <category lang="pt">Desporto</category>
+  </programme>
+  <programme start="20220702171500 +0100" stop="20220702180000 +0100" channel="Porto Canal">
+    <title lang="pt">Viver Aqui</title>
+    <desc lang="pt">Programa dedicado à valorização e promoção da região Norte.(n)</desc>
+    <category lang="pt">Entretenimento</category>
+  </programme>
+  <programme start="20220702180000 +0100" stop="20220702190000 +0100" channel="Porto Canal">
+    <title lang="pt">Campeonato Portugal de Velocidade</title>
+    <category lang="pt">Desporto</category>
+  </programme>
+  <programme start="20220702190000 +0100" stop="20220702193000 +0100" channel="Porto Canal">
+    <title lang="pt">Tarde Informativa</title>
+    <desc lang="pt">Espaço de informação diária do Porto Canal.(n)</desc>
+    <category lang="pt">Informacao</category>
+  </programme>
+  <programme start="20220702193000 +0100" stop="20220702194500 +0100" channel="Porto Canal">
+    <title lang="pt">N'Agenda</title>
+    <desc lang="pt">Agenda Cultural apresenta semanalmente com sugestões e novidades no meio cultural do Porto e Norte do país.  Exposições, concertos, cinema, arte etc. vão ser os temas em destaque.(n)</desc>
+    <category lang="pt">Entretenimento</category>
+  </programme>
+  <programme start="20220702194500 +0100" stop="20220702210000 +0100" channel="Porto Canal">
+    <title lang="pt">Bilhar - Taça Europa de Clubes</title>
+    <desc lang="pt">As melhores competições de Bilhar aqui no Porto Canal.(n)</desc>
+    <category lang="pt">Desporto</category>
+  </programme>
+  <programme start="20220702210000 +0100" stop="20220702220000 +0100" channel="Porto Canal">
+    <title lang="pt">Noite Informativa</title>
+    <desc lang="pt">O programa Noite Informativa marca as noites de segunda a domingo do Porto Canal sobre o lema "Você é o Nosso Norte". Para além do espaço informativo de acompanhamento de toda a atualidade, é um espaço diário de opinião e debate.(n)</desc>
+    <category lang="pt">Informacao</category>
+  </programme>
+  <programme start="20220702220000 +0100" stop="20220703010000 +0100" channel="Porto Canal">
+    <title lang="pt">S. Pedro - Marchas</title>
+    <category lang="pt">Entretenimento</category>
   </programme>
   <programme start="20220702001000 +0100" stop="20220702003500 +0100" channel="SPORT TV1 HD">
     <title lang="pt">Taça Libertadores - Emelec x Atl. Mineiro - 1ª Mão dos Oitavos-de-Final</title>
@@ -12373,253 +12375,253 @@
   </programme>
   <programme start="20220702001300 +0100" stop="20220702005900 +0100" channel="Blaze HD">
     <title lang="pt">Sob Ataque T.1 Ep.6</title>
-    <desc lang="pt">Papa Bear está de volta, e um dos seus depósitos dá-lhe vontade de dançar... samba. Jesse descobre umas relíquias valiosas dos anos 70, e o destino da equipa Brandori depende de um aparelho de alta tecnologia que nunca viram.(n)</desc>
+    <desc lang="pt">Neste episódio, vemos como criminosos desesperados por fugir usam a violência contra os agentes.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20220702005900 +0100" stop="20220702014400 +0100" channel="Blaze HD">
     <title lang="pt">Fast Justice T.1 Ep.3</title>
-    <desc lang="pt">Um enigmático cofre deixa todos a pensar o que terá dentro. Jesse fica nostálgico com um depósito que lhe lembra a sua infância. Brandon e Lori arrumam mais do que limpam, e T Money descobre da pior forma que não é melhor jogar pelo seguro.(n)</desc>
+    <desc lang="pt">Os Sentinelas lançam uma delicada operação para tentar parar um carro na movimentada A12, quando suspeitam que o condutor está ligado ao fornecimento de droga. Outro condutor acha que consegue esquivar-se aos Sentinelas fazendo um desvio.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
   <programme start="20220702014400 +0100" stop="20220702022700 +0100" channel="Blaze HD">
     <title lang="pt">Fast Justice T.1 Ep.4</title>
-    <desc lang="pt">Os compradores tentam impressionar o leiloeiro Don. Se Ursula pestaneja, e Paul e Bogart dão o seu melhor para brilhar, Cindy pede informações diretas. Entretanto, Roy embarca numa jornada heroica de proporções épicas.(n)</desc>
+    <desc lang="pt">Os Sentinelas montam uma armadilha a um carro de luxo que transporta um alvo de grande valor, mas ele deteta-os e tenta fugir a pé. Um requerente de asilo é apanhado numa teia de mentiras. E um casal que alega ter estado apenas num brunch poderá estar a esconder alguma coisa.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
   <programme start="20220702022700 +0100" stop="20220702031000 +0100" channel="Blaze HD">
     <title lang="pt">Restauradores de Rust Valley T.3 Ep.5</title>
-    <desc lang="pt">Roy chega a um leilão em Toronto com o seu melhor disfarce até hoje – Paul Kenney dos pés ao chapéu. Depois, Cindy e Ursula deitam as garras de fora, em disputa pelo mesmo depósito, Bogart vai ao tapete, e Rick resolve jogar bowling a dinheiro.(n)</desc>
+    <desc lang="pt">É uma corrida ao altar, quando Mike tenta ajudar um noivo a restaurar um Chevy Blazer de 1971 a tempo de surpreender a noiva no grande dia. Os rivais de Rust Valley defrontam-se no primeiro “Shop Truck Challenge” da região.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S3 E5</episode-num>
   </programme>
   <programme start="20220702031000 +0100" stop="20220702035300 +0100" channel="Blaze HD">
     <title lang="pt">Restauradores de Rust Valley T.3 Ep.6</title>
-    <desc lang="pt">Quase todos os compradores defrontam-se num leilão em Cedarbrae, Ontário. Cindy quase chega a vias de facto com Ursula, que tem imenso prazer em fazer subir as licitações de Roy, que faz os possíveis para dar a Paul e a Bogart o pior conselho de sempre.(n)</desc>
+    <desc lang="pt">Um passeio por Rust Valley conduz Mike a uma zona de perigo, quando Connor lhe faz um ultimato: se comprar outro carro, o filho mandará um do Campo de Sonhos pelos ares. Os problemas na transmissão do camião militar de Avery colocam em risco o orçamento e a segurança de todos.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S3 E6</episode-num>
   </programme>
   <programme start="20220702035300 +0100" stop="20220702043700 +0100" channel="Blaze HD">
     <title lang="pt">Restauradores de Rust Valley T.3 Ep.7</title>
-    <desc lang="pt">Roy destabiliza um leilão em Brampton com um boneco que se parece e age exatamente como ele – só que ainda pior! Ursula considera abrir uma loja própria, Cindy e Rick estão em maré de sorte, e Paul e Bogart nem sabem o que pensar.(n)</desc>
+    <desc lang="pt">A febre da corrida “Hit-to-Pass” toma conta de Rust Valley, com as várias oficinas a preparar-se para a prova anual. JF está na berlinda, depois da vitória do ano passado, e James West dá tudo, participando com um carro seu pela primeira vez.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S3 E7</episode-num>
   </programme>
   <programme start="20220702043700 +0100" stop="20220702052200 +0100" channel="Blaze HD">
     <title lang="pt">Sob Ataque T.1 Ep.5</title>
-    <desc lang="pt">Paul e Bogart tentam gravar um anúncio à sua loja, num leilão na baixa de Toronto, mas os veteranos Rick e Cindy fazem de tudo para sabotar as filmagens. Depois, Ursula anuncia planos para abrir uma loja sua, e Roy não parece apoiá-la.(n)</desc>
+    <desc lang="pt">Neste episódio, analisamos a forma como os agentes da polícia respondem quando um suspeito de crime foge à captura. Desde os que tentam fugir ao volante de um carro, até aos que fogem a pé.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
   <programme start="20220702052200 +0100" stop="20220702060800 +0100" channel="Blaze HD">
     <title lang="pt">Sob Ataque T.1 Ep.6</title>
-    <desc lang="pt">A viagem de duas horas até um leilão em London, Ontário, acaba em satisfação para uns compradores e em arrependimento para outros. Bogart prova a Paul ser perito em lamentos, Roy é o insuportável do costume, Rick e Cindy têm esperança num grande negócio, e Ursula tem um ataque.(n)</desc>
+    <desc lang="pt">Neste episódio, vemos como criminosos desesperados por fugir usam a violência contra os agentes.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20220702060800 +0100" stop="20220702065400 +0100" channel="Blaze HD">
     <title lang="pt">Caçadores de Tubarões T.1 Ep.8</title>
-    <desc lang="pt">O plano de Roy para arrasar num leilão em Toronto cai completamente por terra, quando o seu irmão mais novo faz sucesso junto dos outros compradores. A braços com o brutal inverno canadiano, Ursula não consegue concentrar-se na inauguração da loja – está demasiado frio para pensar.(n)</desc>
+    <desc lang="pt">A tripulação enfrenta os tubarões com mais de quatro metros que habitam em False Bay. Estes gigantes lançam o caos e levam os homens ao limite.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
   <programme start="20220702065400 +0100" stop="20220702071400 +0100" channel="Blaze HD">
     <title lang="pt">Loucos por Carros T.2 Ep.24</title>
-    <desc lang="pt">Ursula pede ajuda ao seu marido para espiar os outros compradores num leilão em Markham. Roy depressa os desmascara, e goza com o detetive privado. Rick e Cindy caem numa série de armadilhas, e Bogart gostava que a matraca de Paul permanecesse fechada.(n)</desc>
+    <desc lang="pt">Chumlee faz uma visita à loja para ir buscar o seu Lincoln 1963, mas ao chegar lá dão-lhe péssimas notícias. Mais tarde, um casino organiza uma comissão VIP para uma bicicleta inspirada na maior peça de ouro do mundo.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S2 E24</episode-num>
   </programme>
   <programme start="20220702071400 +0100" stop="20220702080000 +0100" channel="Blaze HD">
     <title lang="pt">Engenharia Letal T.2 Ep.5</title>
-    <desc lang="pt">Uma bela oportunidade leva Justin a reavaliar o seu lugar na equipa de salvados. Mais tarde, num teatro centenário vazio há mais de uma década, Ted descobre um baú de objetos da I Guerra Mundial, incluindo uma bússola antiga e uma baioneta.(n)</desc>
+    <desc lang="pt">Na Florida, um buraco enorme engole casas, carros e barcos de uma urbanização de luxo, num piscar de olhos.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
   <programme start="20220702080000 +0100" stop="20220702084600 +0100" channel="Blaze HD">
     <title lang="pt">Engenharia Letal T.2 Ep.6</title>
-    <desc lang="pt">No último episódio da temporada, toda a ajuda é pouca para receber os melhores clientes da Priestly, prontos para agarrar valiosos tesouros. Ted fecha uma das suas maiores vendas do ano, quando, finalmente, arranja um comprador para a fuselagem do avião.(n)</desc>
+    <desc lang="pt">No Milwaukee, a colocação de um teto retrátil num estádio de basebol acaba em tragédia, quando as gruas não conseguem suportar o peso da estrutura.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S2 E6</episode-num>
   </programme>
   <programme start="20220702084600 +0100" stop="20220702093100 +0100" channel="Blaze HD">
     <title lang="pt">Engenharia Letal T.3 Ep.9</title>
-    <desc lang="pt">Com um ladrão entre eles, os Gold montam uma operação para tentar apanhá-lo. No entanto, quando a Polícia é chamada, haverá provas suficientes? E poderá ter um cúmplice? Na American Jewelry, ninguém é de confiança!(n)</desc>
+    <desc lang="pt">No Egito, um dos maiores cargueiros do mundo provoca o caos no Canal de Suez e perdas milionárias para a economia global.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S3 E9</episode-num>
   </programme>
   <programme start="20220702093100 +0100" stop="20220702101700 +0100" channel="Blaze HD">
     <title lang="pt">Engenharia Letal T.3 Ep.10</title>
-    <desc lang="pt">Depois de uma traição demolidora por parte do chefe da segurança, os Gold têm de tomar providências para se proteger, a eles e ao negócio. Mas, quando as medidas de segurança de Seth vão longe de mais, fica na mira de Les, Ashley e de todo o pessoal.(n)</desc>
+    <desc lang="pt">No ano 2000, durante a instalação de uma nova torre de água na pequena cidade de New Providence, um dos braços da grua deslizou e caiu sobre o depósito destruindo tudo por onde passou.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S3 E10</episode-num>
   </programme>
   <programme start="20220702101700 +0100" stop="20220702110200 +0100" channel="Blaze HD">
     <title lang="pt">Fast Justice T.1 Ep.3</title>
-    <desc lang="pt">As medidas de segurança de Seth não agradam às raparigas dos resgates, e a American Jewelry começa a perder pessoal – obrigando os Gold a fazer as montras. Fora do seu elemento, Seth tem dificuldade em realizar a tarefa, e só caminha para o ponto de rutura a cada cliente problemático.(n)</desc>
+    <desc lang="pt">Os Sentinelas lançam uma delicada operação para tentar parar um carro na movimentada A12, quando suspeitam que o condutor está ligado ao fornecimento de droga. Outro condutor acha que consegue esquivar-se aos Sentinelas fazendo um desvio.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
   <programme start="20220702110200 +0100" stop="20220702114500 +0100" channel="Blaze HD">
     <title lang="pt">Fast Justice T.1 Ep.4</title>
-    <desc lang="pt">Seth e Ashley competem para ver quem angaria mais clientes. A ideia de Ashley é excelente, mas Seth tem um plano secreto… que pode levar a irmã aos arames e a deixar a American Jewelry.(n)</desc>
+    <desc lang="pt">Os Sentinelas montam uma armadilha a um carro de luxo que transporta um alvo de grande valor, mas ele deteta-os e tenta fugir a pé. Um requerente de asilo é apanhado numa teia de mentiras. E um casal que alega ter estado apenas num brunch poderá estar a esconder alguma coisa.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
   <programme start="20220702114500 +0100" stop="20220702120400 +0100" channel="Blaze HD">
     <title lang="pt">O Legado Corvette T.1 Ep.4</title>
-    <desc lang="pt">Uma bela oportunidade leva Justin a reavaliar o seu lugar na equipa de salvados. Mais tarde, num teatro centenário vazio há mais de uma década, Ted descobre um baú de objetos da I Guerra Mundial, incluindo uma bússola antiga e uma baioneta.(n)</desc>
+    <desc lang="pt">Quando já estavam a dar os últimos retoques no seu Corvette de 1956, a malta da ‘Dream Car Restorations’ deparam-se com um grande problema debaixo do capô que põe o carro todo em perigo.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
   <programme start="20220702120400 +0100" stop="20220702122300 +0100" channel="Blaze HD">
     <title lang="pt">O Legado Corvette T.1 Ep.5</title>
-    <desc lang="pt">No último episódio da temporada, toda a ajuda é pouca para receber os melhores clientes da Priestly, prontos para agarrar valiosos tesouros. Ted fecha uma das suas maiores vendas do ano, quando, finalmente, arranja um comprador para a fuselagem do avião.(n)</desc>
+    <desc lang="pt">Os rapazes da ‘Dream Car Restorations’ estão a fabricar um verdadeiro carro de sonho, ao transformarem um Corvette de 1969 numa réplica do extremamente raro ZL-1.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
   <programme start="20220702122300 +0100" stop="20220702124300 +0100" channel="Blaze HD">
     <title lang="pt">O Legado Corvette T.1 Ep.6</title>
-    <desc lang="pt">Com um ladrão entre eles, os Gold montam uma operação para tentar apanhá-lo. No entanto, quando a Polícia é chamada, haverá provas suficientes? E poderá ter um cúmplice? Na American Jewelry, ninguém é de confiança!(n)</desc>
+    <desc lang="pt">A ‘Dream Car Restorations’ está a restaurar o primeiro carro desportivo da América: um Corvette de 1953 muito raro. Se conseguirem pôr o motor de 1953 a funcionar corretamente, será o carro mais valioso na famosa coleção de 36 Corvettes.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20220702124300 +0100" stop="20220702130500 +0100" channel="Blaze HD">
     <title lang="pt">Penhorados T.8 Ep.9</title>
-    <desc lang="pt">Depois de uma traição demolidora por parte do chefe da segurança, os Gold têm de tomar providências para se proteger, a eles e ao negócio. Mas, quando as medidas de segurança de Seth vão longe de mais, fica na mira de Les, Ashley e de todo o pessoal.(n)</desc>
+    <desc lang="pt">A atitude de Ashley não é novidade, mas quando a sua insolência começa a custar caro à loja, Les e Seth têm de tomar providências. Depois, uma fã de assassinos em série traz algumas peças assustadoras. Demasiado para Les?(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S8 E9</episode-num>
   </programme>
   <programme start="20220702130500 +0100" stop="20220702132700 +0100" channel="Blaze HD">
     <title lang="pt">Penhorados T.8 Ep.10</title>
-    <desc lang="pt">As medidas de segurança de Seth não agradam às raparigas dos resgates, e a American Jewelry começa a perder pessoal – obrigando os Gold a fazer as montras. Fora do seu elemento, Seth tem dificuldade em realizar a tarefa, e só caminha para o ponto de rutura a cada cliente problemático.(n)</desc>
+    <desc lang="pt">Depois de comprar um relógio topo de gama por um preço incrível, Les exibe-o a Seth e Ashley. Seth receia que possa ser um dos exemplares falsificados a circular, mas Les não quer saber.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S8 E10</episode-num>
   </programme>
   <programme start="20220702132700 +0100" stop="20220702134800 +0100" channel="Blaze HD">
     <title lang="pt">Penhorados T.8 Ep.11</title>
-    <desc lang="pt">Seth e Ashley competem para ver quem angaria mais clientes. A ideia de Ashley é excelente, mas Seth tem um plano secreto… que pode levar a irmã aos arames e a deixar a American Jewelry.(n)</desc>
+    <desc lang="pt">Ultimamente, muito tem corrido mal a Les, e, após perder alguns bons negócios, este pode ser o seu pior dia de sempre. Terá perdido o seu dom de vez?(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S8 E11</episode-num>
   </programme>
   <programme start="20220702134800 +0100" stop="20220702141100 +0100" channel="Blaze HD">
     <title lang="pt">Penhorados T.8 Ep.12</title>
-    <desc lang="pt">Damos uma espreitadela no extremo exclusivo do mercado dos carros reservado geralmente para a elite, os famosos e os ridiculamente ricos, enquanto fazemos a seguinte pergunta: qual é o carro mais atrativo da Grã-Bretanha.(n)</desc>
+    <desc lang="pt">Quando encontra joias espalhadas pelo chão, Les julga ser só um descuido. Porém, quando volta a acontecer – e o sistema de videovigilância foi convenientemente desligado – sabe que algo se passa. Os Gold engendram um plano para apanhar o culpado, mas voltarão a ser ludibriados?(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S8 E12</episode-num>
   </programme>
   <programme start="20220702141100 +0100" stop="20220702145400 +0100" channel="Blaze HD">
     <title lang="pt">Lixo ou Luxo? T.2 Ep.7</title>
-    <desc lang="pt">Uma série de celebridades levam-nos a passear pelo baú das recordações automobilísticas, ao mesmo tempo que partilham histórias das suas primeiras viagens de carro.(n)</desc>
+    <desc lang="pt">Uma operação fantasmagórica num hospital abandonado leva a achados invulgares, incluindo uma rara e valiosa mesa de autópsias.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S2 E7</episode-num>
   </programme>
   <programme start="20220702145400 +0100" stop="20220702153700 +0100" channel="Blaze HD">
     <title lang="pt">Lixo ou Luxo? T.2 Ep.8</title>
-    <desc lang="pt">O nosso anfitrião de celebridades procura o automóvel mais sensual, elegante e bonito de todos os tempos. Na nossa busca pelo carro mais impressionante, recordamos as histórias por detrás dos carros mais elegantes e irresistíveis de sempre.(n)</desc>
+    <desc lang="pt">A recuperação de salvados e a demolição de uma igreja do século XIX requer um trabalho delicado e dedicado para remover os seus muitos tesouros em segurança, incluindo raros vitrais, uma série de grandes vigas em pinho com 200 anos, e um sino já mal pendurado.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S2 E8</episode-num>
   </programme>
   <programme start="20220702153700 +0100" stop="20220702155800 +0100" channel="Blaze HD">
     <title lang="pt">Transportes Impossíveis T.6 Ep.2</title>
-    <desc lang="pt">Voltamos a remexer no baú das recordações em busca do nosso carro preferido. Um Ford Cortina, um Vauxhall Cavalier da década de 1980, uma carrinha Ford Transit, um Anglia 105E... Qual dos carros receberá a medalha de ouro correspondente ao carro preferido.(n)</desc>
+    <desc lang="pt">Um gigantesco cão de brincar mantém Todd e Tamera ocupadíssimos enquanto tentam resolver problemas com o reboque e com o motor. Jenn move céu e terra para levar umas pequenas pedras da Lua de Houston para Phoenix.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S6 E2</episode-num>
   </programme>
   <programme start="20220702155800 +0100" stop="20220702161900 +0100" channel="Blaze HD">
     <title lang="pt">Transportes Impossíveis T.6 Ep.6</title>
-    <desc lang="pt">O leilão realiza-se na pequena e abastada povoação de Haslet (Texas) e alguns veteranos competem pelos tesouros abandonados. Puffy, a mãe de Ricky, outra veterana dos leilões de depósitos, não tarda em ficar na linha de tiro de uma territorial Lesa Lewis.(n)</desc>
+    <desc lang="pt">Depois de ter licitado uma carga que excede o peso permitido, Samko acaba por, a contragosto, fazer equipa com Jenn. A situação ficará tensa quando se descobre que Jenn não foi totalmente honesta com Samko.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S6 E6</episode-num>
   </programme>
   <programme start="20220702161900 +0100" stop="20220702163900 +0100" channel="Blaze HD">
     <title lang="pt">Transportes Impossíveis T.6 Ep.9</title>
-    <desc lang="pt">Menos é geralmente mais em Brea. Rene tenta o impossível numa aposta arriscada. Brandi tem de vasculhar no meio da tralha, mas fá-lo de alma e coração. Entretanto, Ivy e o pai esclarecem a confusão em torno de um enorme mecanismo misterioso.(n)</desc>
+    <desc lang="pt">Depois de ganhar o transporte de um campo de minigolfe, Jenn descobre que a palavra 'mini' não se encaixa de forma alguma na realidade.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S6 E9</episode-num>
   </programme>
   <programme start="20220702163900 +0100" stop="20220702165900 +0100" channel="Blaze HD">
     <title lang="pt">Transportes Impossíveis T.7 Ep.7</title>
-    <desc lang="pt">Neste episódio, falamos de estilo, potência e proteção, provando que os SUV não são só para levar os filhos aos treinos de futebol. Há velhos Harvester Scouts restaurados a vender-se ao preço de um supercarro, e vamos ver um belo exemplar laranja por personalizadores da Florida.(n)</desc>
+    <desc lang="pt">O amor de Jenn pelos animais sofre um duro golpe ao tentar controlar um transporte que inclui seis gigantescos tigres de Bengala.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S7 E7</episode-num>
   </programme>
   <programme start="20220702165900 +0100" stop="20220702172000 +0100" channel="Blaze HD">
     <title lang="pt">Transportes Impossíveis T.8 Ep.2</title>
-    <desc lang="pt">Neste episódio, revelamos cinco veículos fantásticos engenhosamente convertidos das formas mais improváveis. Começamos pelo Walter, um autocarro VW de dois andares que já foi um carro de bombeiros de um aeródromo.(n)</desc>
+    <desc lang="pt">Uma enorme criatura animatrónica com um prazo de entrega de apenas um dia é pura adrenalina para Molly e Russell, ao mesmo tempo que Tamara sonha com um belo rendimento ao assegurar o transporte de um barril de vinho de grandes dimensões pelo país.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S8 E2</episode-num>
   </programme>
   <programme start="20220702172000 +0100" stop="20220702174000 +0100" channel="Blaze HD">
     <title lang="pt">Transportes Impossíveis T.7 Ep.12</title>
-    <desc lang="pt">Neste episódio, atrevemo-nos a ir mais além, com cinco veículos extravagantes que não querem saber de estradas. Começamos no deserto do Colorado, com um VW Beetle modificado, concebido para arrasar na Baja 1000 – uma das corridas de todo-o-terreno mais duras do mundo.(n)</desc>
+    <desc lang="pt">Marc transporta um carregamento do tamanho de Frankenstein da clássica série de televisão, mas o maior susto é quando Marc se vê obrigado a pedir ajuda a Jenn. Entretanto, na batalha pelo espaço, Todd e Tamera transportam um módulo lunar e verificam que a gravidade não é só uma boa ideia, é uma l...(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S7 E12</episode-num>
   </programme>
   <programme start="20220702174000 +0100" stop="20220702182300 +0100" channel="Blaze HD">
     <title lang="pt">Desafio nas Estradas T.1 Ep.1</title>
-    <desc lang="pt">Neste episódio, averiguamos cinco supercarros modificados que provam que há sempre possibilidade de melhorar a perfeição. Com técnicas de personalização de última geração, a BBi Autosport arranjou maneira de tornar o 911 GT RS – o carro mais veloz da Porsche – ainda mais rápido.(n)</desc>
+    <desc lang="pt">Os camionistas mais antigos de Big Donny digladiam-se no extremo norte, enquanto a mais nova segue para uma central hidroelétrica que não consegue restabelecer a energia sem ela. Quando a concorrência sobe a parada, Donny descobre que o seu império está debaixo de fogo.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
   <programme start="20220702182300 +0100" stop="20220702190600 +0100" channel="Blaze HD">
     <title lang="pt">Desafio nas Estradas T.1 Ep.2</title>
-    <desc lang="pt">Os caçadores de lagostas australianos enfrentam o seu maior desafio. O preço no mercado internacional caiu a pique, devido à pandemia.\nEste mês, a faturação do capitão Squizzy é de menos 150 mil dólares.(n)</desc>
+    <desc lang="pt">Big Donny manda toda a equipa para o desafiante resgate de um acidente de viação, mas as coisas dão para o torto, quando Craig desaparece em combate. Angela fica à beira da estrada, quando o seu camião avaria numa missão urgente e o de Dave é roubado.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
   <programme start="20220702190600 +0100" stop="20220702194800 +0100" channel="Blaze HD">
     <title lang="pt">Desafio nas Estradas T.1 Ep.3</title>
-    <desc lang="pt">O colapso do mercado global bateu forte. Os caçadores de lagostas de toda a Austrália estão com dificuldade em manter-se à tona. Tempos difíceis exigem medidas extremas na forma de vender no mercado local em depressão. Se errarem, acabou-se.(n)</desc>
+    <desc lang="pt">Dave e a filha, Alyssa, debatem-se para recuperar um carro de minério antigo de uma mina de cobre abandonada. Angela tem dificuldade numa missão aparentemente simples, e Dale parte numa busca épica por combustível para a caldeira da garagem de Donny, onde os camiões congelarão, se não conseguir.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
   <programme start="20220702194800 +0100" stop="20220702203100 +0100" channel="Blaze HD">
     <title lang="pt">Desafio nas Estradas T.1 Ep.4</title>
-    <desc lang="pt">A caça ao ouro vermelho aquece. Os caçadores de lagostas australianos veem-se obrigados a arriscar tudo para evitarem perder os seus negócios.\nO novato capitão Bryce vai no terceiro dia de pesadelo da sua viagem inaugural.(n)</desc>
+    <desc lang="pt">Depois de Angela aceitar um serviço de Dave, Big Donny acena-lhe com uma proposta melhor. Dave tenta vingar-se comprando um camião que Donny queria, para poder vender-lho por um preço mais alto.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
   <programme start="20220702203100 +0100" stop="20220702205300 +0100" channel="Blaze HD">
     <title lang="pt">Veículos Top T.1 Ep.9</title>
-    <desc lang="pt">Uma bela oportunidade leva Justin a reavaliar o seu lugar na equipa de salvados. Mais tarde, num teatro centenário vazio há mais de uma década, Ted descobre um baú de objetos da I Guerra Mundial, incluindo uma bússola antiga e uma baioneta.(n)</desc>
+    <desc lang="pt">Neste episódio, falamos de estilo, potência e proteção, provando que os SUV não são só para levar os filhos aos treinos de futebol. Há velhos Harvester Scouts restaurados a vender-se ao preço de um supercarro, e vamos ver um belo exemplar laranja por personalizadores da Florida.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
   <programme start="20220702205300 +0100" stop="20220702211600 +0100" channel="Blaze HD">
     <title lang="pt">Veículos Top T.1 Ep.10</title>
-    <desc lang="pt">No último episódio da temporada, toda a ajuda é pouca para receber os melhores clientes da Priestly, prontos para agarrar valiosos tesouros. Ted fecha uma das suas maiores vendas do ano, quando, finalmente, arranja um comprador para a fuselagem do avião.(n)</desc>
+    <desc lang="pt">Neste episódio, revelamos cinco veículos fantásticos engenhosamente convertidos das formas mais improváveis. Começamos pelo Walter, um autocarro VW de dois andares que já foi um carro de bombeiros de um aeródromo.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S1 E10</episode-num>
   </programme>
   <programme start="20220702211600 +0100" stop="20220702213800 +0100" channel="Blaze HD">
     <title lang="pt">Veículos Top T.1 Ep.11</title>
-    <desc lang="pt">Os compradores tentam impressionar o leiloeiro Don. Se Ursula pestaneja, e Paul e Bogart dão o seu melhor para brilhar, Cindy pede informações diretas. Entretanto, Roy embarca numa jornada heroica de proporções épicas.(n)</desc>
+    <desc lang="pt">Neste episódio, atrevemo-nos a ir mais além, com cinco veículos extravagantes que não querem saber de estradas. Começamos no deserto do Colorado, com um VW Beetle modificado, concebido para arrasar na Baja 1000 – uma das corridas de todo-o-terreno mais duras do mundo.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S1 E11</episode-num>
   </programme>
   <programme start="20220702213800 +0100" stop="20220702220100 +0100" channel="Blaze HD">
     <title lang="pt">Veículos Top T.1 Ep.12</title>
-    <desc lang="pt">Roy chega a um leilão em Toronto com o seu melhor disfarce até hoje – Paul Kenney dos pés ao chapéu. Depois, Cindy e Ursula deitam as garras de fora, em disputa pelo mesmo depósito, Bogart vai ao tapete, e Rick resolve jogar bowling a dinheiro.(n)</desc>
+    <desc lang="pt">Neste episódio, averiguamos cinco supercarros modificados que provam que há sempre possibilidade de melhorar a perfeição. Com técnicas de personalização de última geração, a BBi Autosport arranjou maneira de tornar o 911 GT RS – o carro mais veloz da Porsche – ainda mais rápido.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S1 E12</episode-num>
   </programme>
   <programme start="20220702220100 +0100" stop="20220702224300 +0100" channel="Blaze HD">
     <title lang="pt">Jay Leno's Garage T.4 Ep.11</title>
-    <desc lang="pt">Quase todos os compradores defrontam-se num leilão em Cedarbrae, Ontário. Cindy quase chega a vias de facto com Ursula, que tem imenso prazer em fazer subir as licitações de Roy, que faz os possíveis para dar a Paul e a Bogart o pior conselho de sempre.(n)</desc>
+    <desc lang="pt">Neste episódio, Jay prova que não é preciso já ter idade para ter carta de condução para adorar carros! Conhece uma destemida dupla que enfrenta o próprio pai, também duplo. Depois, vai até à pista de karts, onde o esperam alguns dos mais competitivos – e pequenos – pilotos da modalidade.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S4 E11</episode-num>
   </programme>
   <programme start="20220702224300 +0100" stop="20220702232400 +0100" channel="Blaze HD">
     <title lang="pt">Jay Leno's Garage T.4 Ep.12</title>
-    <desc lang="pt">Roy destabiliza um leilão em Brampton com um boneco que se parece e age exatamente como ele – só que ainda pior! Ursula considera abrir uma loja própria, Cindy e Rick estão em maré de sorte, e Paul e Bogart nem sabem o que pensar.(n)</desc>
+    <desc lang="pt">Neste episódio, Jay Leno procura saber como começa a paixão pelos carros. A de Mitt Romney começou com o seu pai, então presidente da American Motors, ao passo que Weird Al Yankovic só gostou de um único veículo – o seu primeiro carro familiar – e até compôs uma música sobre ele.(n)</desc>
     <category lang="pt">Entretenimento</category>
     <episode-num system="onscreen">S4 E12</episode-num>
   </programme>
   <programme start="20220702232400 +0100" stop="20220703000800 +0100" channel="Blaze HD">
     <title lang="pt">Patrulhas de Gibraltar T.1 Ep.9</title>
-    <desc lang="pt">Paul e Bogart tentam gravar um anúncio à sua loja, num leilão na baixa de Toronto, mas os veteranos Rick e Cindy fazem de tudo para sabotar as filmagens. Depois, Ursula anuncia planos para abrir uma loja sua, e Roy não parece apoiá-la.(n)</desc>
+    <desc lang="pt">Neste episódio, o esquadrão antidroga vai atrás de um armazenamento ilegal de combustível escondido nas profundezas do Rochedo de Gibraltar. Os agentes da alfândega encontram informações valiosas no barco abandonado de um contrabandista.(n)</desc>
     <category lang="pt">Documentarios</category>
     <episode-num system="onscreen">S1 E9</episode-num>
   </programme>
@@ -14492,62 +14494,62 @@
   </programme>
   <programme start="20220702020000 +0100" stop="20220702050000 +0100" channel="ARTV">
     <title lang="pt">Plenário</title>
-    <desc lang="pt">Audição da DECO - Associação Portuguesa para a Defesa do Consumidor, sobre a redução do número de beneficiários do Programa de Apoio às Pessoas Mais Carenciadas (POAPMC), bem como sobre a redução da composição dos cabazes distribuídos (requerimento do PSD): Ana Cristina Tapadinhas.(n)</desc>
+    <desc lang="pt">Projetos de lei e de resolução (IL) sobre o Serviço Nacional de Saúde. votações.(n)</desc>
     <category lang="pt">Informacao</category>
   </programme>
   <programme start="20220702050000 +0100" stop="20220702090000 +0100" channel="ARTV">
     <title lang="pt">Comissão de Saúde</title>
-    <desc lang="pt">Audição do Instituto do Emprego e Formação Profissional (IEFP), sobre o acolhimento de refugiados vindos da Ucrânia (requerimento do PSD): Adelaide Franco, Presidente do IEFP.(n)</desc>
+    <desc lang="pt">Audição da Ministra da Saúde, sobre política geral do ministério.(n)</desc>
     <category lang="pt">Informacao</category>
   </programme>
   <programme start="20220702090000 +0100" stop="20220702100000 +0100" channel="ARTV">
     <title lang="pt">Comissão de Assuntos Europeus</title>
-    <desc lang="pt">Colóquio sobre a extensão da plataforma continental (à margem da II Conferência das Nações Unidas sobre os Oceanos).(n)</desc>
+    <desc lang="pt">Audiência com uma delegação do Parlamento alemão do partido DIE LINKE.(n)</desc>
     <category lang="pt">Informacao</category>
   </programme>
   <programme start="20220702100000 +0100" stop="20220702120000 +0100" channel="ARTV">
     <title lang="pt">Comissão de Orçamento e Finanças</title>
-    <desc lang="pt">Audiência à Associação Empresarial de Comunicações de Portugal (ACIST).(n)</desc>
+    <desc lang="pt">Audição da Secretária de Estado do Orçamento no âmbito da apreciação da Conta Geral do Estado 2020.(n)</desc>
     <category lang="pt">Informacao</category>
   </programme>
   <programme start="20220702120000 +0100" stop="20220702140000 +0100" channel="ARTV">
     <title lang="pt">Comissão de Agricultura e Pescas</title>
-    <desc lang="pt">Audição após Conselho Europeu dos dias 23 e 24 de junho de 2022, com o Secretário de Estado dos Assuntos Europeus.(n)</desc>
+    <desc lang="pt">Audição de diversas entidades, a respeito da Carta de Perigosidade de Incêndio Rural (requerimento do PSD): CNA - Confederação Nacional da Agricultura, CAP - Confederação dos Agricultores de Portugal.(n)</desc>
     <category lang="pt">Informacao</category>
   </programme>
   <programme start="20220702140000 +0100" stop="20220702150000 +0100" channel="ARTV">
     <title lang="pt">Comissão de Educação e Ciência</title>
-    <desc lang="pt">Audiência à DECO - Associação Portuguesa para a Defesa do Consumidor.(n)</desc>
+    <desc lang="pt">Audição de peticionários da FENPROF.(n)</desc>
     <category lang="pt">Informacao</category>
   </programme>
   <programme start="20220702150000 +0100" stop="20220702160000 +0100" channel="ARTV">
     <title lang="pt">Comissão de Educação e Ciência</title>
-    <desc lang="pt">Sessão Comemorativa do 20.º Aniversário da Estratégia Nacional de luta contra a droga.(n)</desc>
+    <desc lang="pt">Audição dos peticionários do SPLIU – Sindicato Nacional dos Professores Licenciados pelos Politécnicos e Universidades, pela alteração do modelo de avaliação do desempenho docente e extinção das quotas para a atribuição das menções qualitativas de Muito Bom e Excelente.(n)</desc>
     <category lang="pt">Informacao</category>
   </programme>
   <programme start="20220702160000 +0100" stop="20220702170000 +0100" channel="ARTV">
     <title lang="pt">Comissão de Trabalho, Segurança Social e Inclusão</title>
-    <desc lang="pt">Debate sobre as prioridades da presidência Checa, com a participação do Governo. Debate sobre os instrumentos da governação económica da União Europeia, com a participação do Governo. Projetos de lei (PS, PAN, CH e IL) sobre a regulação e promoção do acesso a atividades profissionais reguladas.(n)</desc>
+    <desc lang="pt">Audição da DECO - Associação Portuguesa para a Defesa do Consumidor, sobre a redução do número de beneficiários do Programa de Apoio às Pessoas Mais Carenciadas (POAPMC), bem como sobre a redução da composição dos cabazes distribuídos (requerimento do PSD): Ana Cristina Tapadinhas.(n)</desc>
     <category lang="pt">Informacao</category>
   </programme>
   <programme start="20220702170000 +0100" stop="20220702180000 +0100" channel="ARTV">
     <title lang="pt">Comissão de Trabalho, Segurança Social e Inclusão</title>
-    <desc lang="pt">Projetos de lei e de resolução (IL) sobre o Serviço Nacional de Saúde. votações.(n)</desc>
+    <desc lang="pt">Audição do Instituto do Emprego e Formação Profissional (IEFP), sobre o acolhimento de refugiados vindos da Ucrânia (requerimento do PSD): Adelaide Franco, Presidente do IEFP.(n)</desc>
     <category lang="pt">Informacao</category>
   </programme>
   <programme start="20220702180000 +0100" stop="20220702220000 +0100" channel="ARTV">
     <title lang="pt">Comissão de Negócios Estrangeiros e Comunidades Portuguesas</title>
-    <desc lang="pt">Audição da Ministra da Saúde, sobre política geral do ministério.(n)</desc>
+    <desc lang="pt">Colóquio sobre a extensão da plataforma continental (à margem da II Conferência das Nações Unidas sobre os Oceanos).(n)</desc>
     <category lang="pt">Informacao</category>
   </programme>
   <programme start="20220702220000 +0100" stop="20220702230000 +0100" channel="ARTV">
     <title lang="pt">Comissão de Economia, Obras Públicas, Planeamento e Habitação</title>
-    <desc lang="pt">Audiência com uma delegação do Parlamento alemão do partido DIE LINKE.(n)</desc>
+    <desc lang="pt">Audiência à Associação Empresarial de Comunicações de Portugal (ACIST).(n)</desc>
     <category lang="pt">Informacao</category>
   </programme>
   <programme start="20220702230000 +0100" stop="20220703010000 +0100" channel="ARTV">
     <title lang="pt">Comissão de Assuntos Europeus</title>
-    <desc lang="pt">Audição da Secretária de Estado do Orçamento no âmbito da apreciação da Conta Geral do Estado 2020.(n)</desc>
+    <desc lang="pt">Audição após Conselho Europeu dos dias 23 e 24 de junho de 2022, com o Secretário de Estado dos Assuntos Europeus.(n)</desc>
     <category lang="pt">Informacao</category>
   </programme>
   <programme start="20220702002300 +0100" stop="20220702030000 +0100" channel="Toros TV HD">
