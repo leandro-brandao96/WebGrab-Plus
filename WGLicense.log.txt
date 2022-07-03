@@ -1,7 +1,15 @@
 ﻿[        ] WebGrab++ license request and update log
-[        ] 2022/07/03 00:00
+[        ] 2022/07/03 12:00
+[  Info  ] Program update available !! - Version 3.2.4 @http://www.webgrabplus.com/download/sw/v3.2.4
 [        ] 
-[  Info  ] No License update required
+[  Info  ] License request/update
+[  Info  ] Username 'leandro-brandao96'
+[Error   ] Hardware mismatch, the maximum of 2 computer hardware_id's is already registered
+[        ] 
+[Warning ] The program cannot run right now on this computer, 
+[Warning ] but it's hardware_id will be ADDED and ready to use after 2022/07/04 00:00 ,
+[Warning ] and it will REPLACE one of the previously registered computers as soon as you run on the ONE YOU WANT TO KEEP !!
+[  Info  ] License status : 'True'
 [  Info  ] Next update, first run after : 2022/07/03 00:00
 [  Info  ] The program will run with performance settings : 'donator_license'
 [  Info  ] License check .. done
