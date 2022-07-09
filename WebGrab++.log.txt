@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 04/07/2022 21:01:36
+[        ] Job started at 09/07/2022 00:00:06
 [  Debug ] 
 [  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
 [  Debug ] Environment: 4.0.30319.42000
@@ -473,9 +473,9 @@
 [Warning ] 
 [  Info  ] 
 [  Debug ] 
-[  Debug ] 2889 shows in 101 channels
+[  Debug ] 2907 shows in 101 channels
 [  Debug ] 0 updated shows
-[  Debug ] 2889 new shows added
+[  Debug ] 2907 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 04/07/2022 21:08:30 done in 6m 54s
+[        ] Job finished at 09/07/2022 00:11:50 done in 11m 44s
