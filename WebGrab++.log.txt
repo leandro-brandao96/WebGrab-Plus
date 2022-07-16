@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 13/07/2022 12:00:04
+[        ] Job started at 16/07/2022 12:00:06
 [  Debug ] 
 [  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
 [  Debug ] Environment: 4.0.30319.42000
@@ -137,6 +137,8 @@
 [  Info  ] update requested for - 101 - out of - 101 - channels for 1 day(s)
 [  Debug ] 
 [  Info  ] (   1/101 ) NOS.PT.E -- chan. (xmltv_id=RTP 1) -- mode Force
+[Warning ] error downloading page: Pedido abortado: Pedido cancelado.
+[Warning ] pausing 1 of 4 times for 5 seconds before re-try.
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (   2/101 ) NOS.PT.E -- chan. (xmltv_id=RTP 2) -- mode Force
@@ -473,9 +475,9 @@
 [Warning ] 
 [  Info  ] 
 [  Debug ] 
-[  Debug ] 2912 shows in 101 channels
+[  Debug ] 2925 shows in 101 channels
 [  Debug ] 0 updated shows
-[  Debug ] 2912 new shows added
+[  Debug ] 2925 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 13/07/2022 12:06:12 done in 6m 8s
+[        ] Job finished at 16/07/2022 12:19:08 done in 19m 1s
