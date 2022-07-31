@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 31/07/2022 15:00:06
+[        ] Job started at 31/07/2022 18:00:03
 [  Debug ] 
 [  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
 [  Debug ] Environment: 4.0.30319.42000
@@ -23,7 +23,7 @@
 [  Debug ] 
 [  Info  ] found: C:\Users\leand\AppData\Local\WebGrab+Plus\siteini.pack\Portugal\meo.pt.ini -- Revision 06
 [  Debug ] xmltv input file - C:\Users\leand\AppData\Local\WebGrab+Plus\guide.xml - found
-[  Debug ] 2829 superfluous shows removed
+[  Debug ] 509 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=RTP 1) in the config file
 [  Info  ] Found existing channel (xmltv_id=RTP 2) in the config file
 [  Info  ] Found existing channel (xmltv_id=SIC) in the config file
@@ -214,3 +214,126 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  24/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 1) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  25/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 2) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  26/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 3) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  27/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 4) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  28/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 5) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  29/101 ) NOS.PT.E -- chan. (xmltv_id=ELEVEN 6) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  30/101 ) NOS.PT.E -- chan. (xmltv_id=Sporting TV HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  31/101 ) NOS.PT.E -- chan. (xmltv_id=Eurosport 1 HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  32/101 ) NOS.PT.E -- chan. (xmltv_id=Eurosport 2 HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  33/101 ) NOS.PT.E -- chan. (xmltv_id=Disney Channel) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  34/101 ) NOS.PT.E -- chan. (xmltv_id=Cartoon Network) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  35/101 ) NOS.PT.E -- chan. (xmltv_id=Biggs) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  36/101 ) NOS.PT.E -- chan. (xmltv_id=SIC K HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  37/101 ) NOS.PT.E -- chan. (xmltv_id=Nickelodeon) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  38/101 ) NOS.PT.E -- chan. (xmltv_id=Nick Jr.) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  39/101 ) NOS.PT.E -- chan. (xmltv_id=Disney Junior) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  40/101 ) NOS.PT.E -- chan. (xmltv_id=Canal Panda) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  41/101 ) MEO.PT -- chan. (xmltv_id=JIMJAM) -- mode Force
+[Warning ] 
+[Warning ]   !! -- WARNING : meo.pt doesn't allow epg grabbing !!
+[Warning ] it is advised to disable this channel / site from your channel list
+[Warning ] 
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  42/101 ) NOS.PT.E -- chan. (xmltv_id=Baby TV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  43/101 ) NOS.PT.E -- chan. (xmltv_id=TVCine TOP) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  44/101 ) NOS.PT.E -- chan. (xmltv_id=TVCine EDITION) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  45/101 ) NOS.PT.E -- chan. (xmltv_id=TVCine EMOTION) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  46/101 ) NOS.PT.E -- chan. (xmltv_id=TVCine ACTION) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  47/101 ) NOS.PT.E -- chan. (xmltv_id=NOS Studios) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  48/101 ) MEO.PT -- chan. (xmltv_id=CINEMUNDO HD) -- mode Force
+[Warning ] 
+[Warning ]   !! -- WARNING : meo.pt doesn't allow epg grabbing !!
+[Warning ] it is advised to disable this channel / site from your channel list
+[Warning ] 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  49/101 ) NOS.PT.E -- chan. (xmltv_id=Canal Hollywood) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  50/101 ) NOS.PT.E -- chan. (xmltv_id=FOX Movies) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  51/101 ) NOS.PT.E -- chan. (xmltv_id=AMC) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  52/101 ) NOS.PT.E -- chan. (xmltv_id=AXN Movies) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  53/101 ) NOS.PT.E -- chan. (xmltv_id=FOX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  54/101 ) NOS.PT.E -- chan. (xmltv_id=FOX Life) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  55/101 ) NOS.PT.E -- chan. (xmltv_id=FOX Crime) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  56/101 ) NOS.PT.E -- chan. (xmltv_id=FOX Comedy) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  57/101 ) NOS.PT.E -- chan. (xmltv_id=AXN) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  58/101 ) NOS.PT.E -- chan. (xmltv_id=AXN White) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  59/101 ) NOS.PT.E -- chan. (xmltv_id=SYFY) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  60/101 ) NOS.PT.E -- chan. (xmltv_id=Discovery Channel) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  61/101 ) NOS.PT.E -- chan. (xmltv_id=História) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  62/101 ) NOS.PT.E -- chan. (xmltv_id=Odisseia) -- mode Force
