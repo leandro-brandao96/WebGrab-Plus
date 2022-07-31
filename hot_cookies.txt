@@ -1,5 +1,5 @@
 #  Hot_Cookies, saved for the purpose of an actual WebGrab run
-#  Saved by WG++ 31/07/2022 18:04
+#  Saved by WG++ 31/07/2022 21:04
 #  Response cookie from url :https://www.nos.pt/_layouts/15/Armstrong/ApplicationPages/EPGGetProgramsAndDetails.aspx/GetProgramDetails
 
-.nos.pt	FALSE	/	FALSE	0	dtCookie	v_4_srv_8_sn_523CEF7E60118953FA92B9804D5212FA_perc_100000_ol_0_mul_1_app-3A631ff1a963e7a498_1_rcs-3Acss_0
+.nos.pt	FALSE	/	FALSE	0	dtCookie	v_4_srv_5_sn_05890C683B446C072551A66B54094D37_perc_100000_ol_0_mul_1_app-3A631ff1a963e7a498_0_rcs-3Acss_0
