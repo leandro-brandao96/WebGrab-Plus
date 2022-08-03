@@ -7,7 +7,7 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 31/07/2022 21:00:02
+[        ] Job started at 03/08/2022 12:00:03
 [  Debug ] 
 [  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
 [  Debug ] Environment: 4.0.30319.42000
@@ -23,7 +23,7 @@
 [  Debug ] 
 [  Info  ] found: C:\Users\leand\AppData\Local\WebGrab+Plus\siteini.pack\Portugal\meo.pt.ini -- Revision 06
 [  Debug ] xmltv input file - C:\Users\leand\AppData\Local\WebGrab+Plus\guide.xml - found
-[  Debug ] 1687 superfluous shows removed
+[  Debug ] 0 superfluous shows removed
 [  Info  ] Found existing channel (xmltv_id=RTP 1) in the config file
 [  Info  ] Found existing channel (xmltv_id=RTP 2) in the config file
 [  Info  ] Found existing channel (xmltv_id=SIC) in the config file
@@ -331,3 +331,151 @@
 [  Info  ] 
 [  Debug ] 
 [  Info  ] (  60/101 ) NOS.PT.E -- chan. (xmltv_id=Discovery Channel) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  61/101 ) NOS.PT.E -- chan. (xmltv_id=História) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  62/101 ) NOS.PT.E -- chan. (xmltv_id=Odisseia) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  63/101 ) NOS.PT.E -- chan. (xmltv_id=National Geographic) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  64/101 ) NOS.PT.E -- chan. (xmltv_id=National Geographic WILD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  65/101 ) NOS.PT.E -- chan. (xmltv_id=ID Investigation Discovery) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  66/101 ) NOS.PT.E -- chan. (xmltv_id=TVI Reality) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  67/101 ) NOS.PT.E -- chan. (xmltv_id=RTP Memória) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  68/101 ) NOS.PT.E -- chan. (xmltv_id=Casa e Cozinha HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  69/101 ) NOS.PT.E -- chan. (xmltv_id=Travel Channel) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  70/101 ) NOS.PT.E -- chan. (xmltv_id=Canal Q) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  71/101 ) NOS.PT.E -- chan. (xmltv_id=SIC Radical HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  72/101 ) NOS.PT.E -- chan. (xmltv_id=MTV Portugal) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  73/101 ) NOS.PT.E -- chan. (xmltv_id=Blaze HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  74/101 ) NOS.PT.E -- chan. (xmltv_id=Fuel TV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  75/101 ) NOS.PT.E -- chan. (xmltv_id=Crime + Investigation) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  76/101 ) MEO.PT -- chan. (xmltv_id=CBS REALITY) -- mode Force
+[Warning ] 
+[Warning ]   !! -- WARNING : meo.pt doesn't allow epg grabbing !!
+[Warning ] it is advised to disable this channel / site from your channel list
+[Warning ] 
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  77/101 ) NOS.PT.E -- chan. (xmltv_id=SIC Caras HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  78/101 ) NOS.PT.E -- chan. (xmltv_id=E! Entertainment) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  79/101 ) NOS.PT.E -- chan. (xmltv_id=24Kitchen HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  80/101 ) NOS.PT.E -- chan. (xmltv_id=FTV HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  81/101 ) NOS.PT.E -- chan. (xmltv_id=Trace Urban HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  82/101 ) NOS.PT.E -- chan. (xmltv_id=MCM Pop) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  83/101 ) NOS.PT.E -- chan. (xmltv_id=Trace Toca) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  84/101 ) NOS.PT.E -- chan. (xmltv_id=RTP Açores) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  85/101 ) NOS.PT.E -- chan. (xmltv_id=RTP Madeira) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  86/101 ) NOS.PT.E -- chan. (xmltv_id=ARTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  87/101 ) NOS.PT.E -- chan. (xmltv_id=Toros TV HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  88/101 ) NOS.PT.E -- chan. (xmltv_id=Caça e Pesca) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  89/101 ) NOS.PT.E -- chan. (xmltv_id=Kuriakos TV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  90/101 ) NOS.PT.E -- chan. (xmltv_id=Canção Nova) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  91/101 ) NOS.PT.E -- chan. (xmltv_id=DOGTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  92/101 ) NOS.PT.E -- chan. (xmltv_id=PFC) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  93/101 ) NOS.PT.E -- chan. (xmltv_id=ZAP Viva HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  94/101 ) NOS.PT.E -- chan. (xmltv_id=Record TV HD) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  95/101 ) NOS.PT.E -- chan. (xmltv_id=RTP África) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  96/101 ) NOS.PT.E -- chan. (xmltv_id=CNN) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  97/101 ) NOS.PT.E -- chan. (xmltv_id=CNBC) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  98/101 ) NOS.PT.E -- chan. (xmltv_id=Euronews) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  99/101 ) MEO.PT -- chan. (xmltv_id=RTP Internacional) -- mode Force
+[Warning ] 
+[Warning ]   !! -- WARNING : meo.pt doesn't allow epg grabbing !!
+[Warning ] it is advised to disable this channel / site from your channel list
+[Warning ] 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 100/101 ) MEO.PT -- chan. (xmltv_id=SIC Internacional) -- mode Force
+[Warning ] 
+[Warning ]   !! -- WARNING : meo.pt doesn't allow epg grabbing !!
+[Warning ] it is advised to disable this channel / site from your channel list
+[Warning ] 
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 101/101 ) MEO.PT -- chan. (xmltv_id=TVI Internacional) -- mode Force
+[Warning ] 
+[Warning ]   !! -- WARNING : meo.pt doesn't allow epg grabbing !!
+[Warning ] it is advised to disable this channel / site from your channel list
+[Warning ] 
+[  Info  ] 
+[  Debug ] 
+[  Debug ] 2927 shows in 101 channels
+[  Debug ] 0 updated shows
+[  Debug ] 2927 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 03/08/2022 12:10:36 done in 10m 32s
